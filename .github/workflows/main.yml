@@ -1,0 +1,25 @@
+name: Update Trending Repos
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every day at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - run: pip install requests beautifulsoup4
+      - run: python update_trending.py
+
+      - run: |
+          git config user.name "AkaiBot"
+          git config user.email "akai@users.noreply.github.com"
+          git add Akai-Tools.md
+          git commit -m "🤖 Auto-update trending section" || echo "No changes"
+          git push
