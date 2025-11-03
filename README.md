@@ -64,12 +64,12 @@ Explore different categories of tools included in this repository 👇
 
 ---
 
-## ⚙️ How It Works
+## 🌟 Auto-Updating Trending Repos
+> 🔄 Live trending GitHub repositories (updated daily at **6 AM IST**)  
+> 👉 [View Full List →](Akai-Tools.md)
 
-- 🕐 Runs daily at **6 AM IST** via GitHub Actions  
-- 🧠 Uses `update_trending.py` to fetch the **Top 10 daily trending GitHub repositories**  
-- 📜 Updates both `Akai-Tools.md` and `README.md` automatically  
-- 💾 Commits changes directly to your repository  
+<!-- TRENDING-START -->
+<!-- TRENDING-END -->
 
 ---
 
