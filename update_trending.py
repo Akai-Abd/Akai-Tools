@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 TRENDING_URL = "https://github.com/trending"
-MD_FILE = "Akai-Tools.md"
+FILES_TO_UPDATE = ["Akai-Tools.md", "README.md"]  # both files will be updated
 
 def fetch_trending_repos():
     """Fetch top 10 trending repositories from GitHub Trending."""
@@ -21,38 +21,53 @@ def fetch_trending_repos():
         repos.append((repo_name, repo_url, description))
     return repos
 
-def update_markdown(repos):
-    """Update the markdown file between the TRENDING-START and TRENDING-END comments."""
-    with open(MD_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    start_marker = "<!-- TRENDING-START -->"
-    end_marker = "<!-- TRENDING-END -->"
-
-    before = content.split(start_marker)[0]
-    after = content.split(end_marker)[-1]
-
-    # Convert UTC time to IST (+5:30)
+def build_trending_md(repos):
+    """Generate markdown section for trending repos."""
     ist_offset = timedelta(hours=5, minutes=30)
     ist_time = datetime.now(timezone.utc) + ist_offset
     updated_time = ist_time.strftime("%Y-%m-%d %H:%M IST")
 
-    # Format the trending section beautifully
-    trending_md = f"{start_marker}\n**Updated:** {updated_time}\n\n"
+    trending_md = "<!-- TRENDING-START -->\n"
+    trending_md += f"**Updated:** {updated_time}\n\n"
     for i, (name, url, desc) in enumerate(repos, start=1):
         trending_md += f"{i}. **[{name}]({url})** — {desc}\n"
-    trending_md += f"{end_marker}\n"
+    trending_md += "<!-- TRENDING-END -->\n"
+    return trending_md
 
-    new_content = before + trending_md + after
+def update_markdown_file(filename, trending_md):
+    """Replace trending section inside a given markdown file."""
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        print(f"⚠️ File not found: {filename}")
+        return
 
-    with open(MD_FILE, "w", encoding="utf-8") as f:
+    start_marker = "<!-- TRENDING-START -->"
+    end_marker = "<!-- TRENDING-END -->"
+
+    if start_marker in content and end_marker in content:
+        before = content.split(start_marker)[0]
+        after = content.split(end_marker)[-1]
+        new_content = before + trending_md + after
+    else:
+        # If markers are missing, append at the end
+        new_content = content + "\n\n" + trending_md
+
+    with open(filename, "w", encoding="utf-8") as f:
         f.write(new_content)
+
+    print(f"✅ Updated: {filename}")
 
 def main():
     print("🚀 Fetching trending repositories...")
     repos = fetch_trending_repos()
-    update_markdown(repos)
-    print("✅ Akai-Tools.md updated successfully (Time shown in IST)!")
+    trending_md = build_trending_md(repos)
+
+    for file in FILES_TO_UPDATE:
+        update_markdown_file(file, trending_md)
+
+    print("✅ All markdown files updated successfully (Time shown in IST)!")
 
 if __name__ == "__main__":
     main()
