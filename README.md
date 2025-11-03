@@ -36,6 +36,7 @@
 ---
 
 ## 🌟 Features
+
 - 🤖 AI, Automation, and Utility Tools for developers and students  
 - ⚙️ Daily auto-updating trending GitHub repos (Top 10)  
 - 🧰 System optimization, privacy, and productivity utilities  
@@ -79,16 +80,3 @@ git clone https://github.com/Akai-Abd/Akai-Tools.git
 cd Akai-Tools
 pip install requests beautifulsoup4
 python update_trending.py
-
-
-🪪 License
-
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0)
-See the LICENSE
- file for full details.
-
-<p align="center"> <img src="https://img.icons8.com/fluency/96/github.png" width="60" alt="GitHub Logo"/> </p> <h3 align="center">💖 Made with ❤️ by <a href="https://github.com/Akai-Abd">Akai</a></h3> <p align="center"> <a href="https://github.com/Akai-Abd"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/> </a> <a href="https://www.linkedin.com/in/Akai"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="https://twitter.com/Akai"> <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/> </a> <a href="https://www.youtube.com/@Akai"> <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/> </a> </p> <p align="center"> 🌐 <b>Follow for more tools, automation scripts, and open-source experiments.</b> </p>
-
-
-
-
