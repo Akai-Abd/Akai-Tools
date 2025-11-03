@@ -17,9 +17,15 @@
 
 ---
 
-## 🧩 Folder Structure
+## 🌟 Auto-Updating Trending Repos
+> 🔄 Live trending GitHub repositories (updated daily at 6 AM IST)
+
+<!-- TRENDING-START -->
+<!-- TRENDING-END -->
 
 ---
+
+## 🧩 Folder Structure
 
 ## 🪪 License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the [LICENSE](LICENSE) file for details.
