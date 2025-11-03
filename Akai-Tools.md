@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2025-11-04 03:36 IST
+**Updated:** 2025-11-04 03:47 IST
 
 1. **[666ghj /BettaFish](https://github.com/666ghj/BettaFish)** — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 2. **[GeeeekExplorer /nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** — Nano vLLM
@@ -17,6 +17,7 @@
 9. **[mudler /LocalAI](https://github.com/mudler/LocalAI)** — 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 10. **[1Panel-dev /MaxKB](https://github.com/1Panel-dev/MaxKB)** — 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
 <!-- TRENDING-END -->
+
 
 
 
