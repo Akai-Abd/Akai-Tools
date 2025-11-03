@@ -1,3 +1,5 @@
+<img width="500" height="198" alt="artificial-intelligence" src="https://github.com/user-attachments/assets/6d28fe85-7f65-4b7f-9d5f-99ccd768318f" />
+
 # 🧠 Akai’s Daily Useful GitHub Tools
 
 > 🚀 A curated collection of open-source tools and scripts for Windows & Linux — for working, studying, programming, and automating daily life.  
