@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 TRENDING_URL = "https://github.com/trending"
 MD_FILE = "Akai-Tools.md"
@@ -32,7 +32,10 @@ def update_markdown(repos):
     before = content.split(start_marker)[0]
     after = content.split(end_marker)[-1]
 
-    updated_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    # Convert UTC time to IST (+5:30)
+    ist_offset = timedelta(hours=5, minutes=30)
+    ist_time = datetime.now(timezone.utc) + ist_offset
+    updated_time = ist_time.strftime("%Y-%m-%d %H:%M IST")
 
     # Format the trending section beautifully
     trending_md = f"{start_marker}\n**Updated:** {updated_time}\n\n"
@@ -49,9 +52,10 @@ def main():
     print("🚀 Fetching trending repositories...")
     repos = fetch_trending_repos()
     update_markdown(repos)
-    print("✅ Akai-Tools.md updated successfully!")
+    print("✅ Akai-Tools.md updated successfully (Time shown in IST)!")
 
 if __name__ == "__main__":
     main()
+
 
 
