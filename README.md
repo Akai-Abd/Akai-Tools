@@ -8,12 +8,17 @@ Automatically updates every day with the top trending GitHub repositories 🧩
 
 ---
 
-## 🌟 Features
-- 🤖 AI, Automation, and Utility Tools for developers and students  
-- ⚙️ Daily auto-updating trending GitHub repos (Top 10)  
-- 🧰 System optimization, privacy, and productivity utilities  
-- 🧪 Works both on Windows & Linux  
-- 🌐 Open source, customizable, and easy to maintain  
+## 🧩 Project Folders Overview
+
+Explore different categories of tools included in this repository 👇
+
+| 📂 Folder | 🔍 Description |
+|-----------|----------------|
+| [🧠 ai_tools](./ai_tools) | AI-powered utilities, local AI models, and productivity assistants |
+| [⚙️ automation_tools](./automation_tools) | Automate daily computer and web tasks with Python scripts |
+| [💻 system_utilities](./system_utilities) | Cleanup, performance optimization, and monitoring tools for Windows/Linux |
+| [🐧 linux_scripts](./linux_scripts) | Bash scripts to automate Linux maintenance, networking, and setup |
+| [🪟 windows_scripts](./windows_scripts) | PowerShell and batch scripts to simplify system management on Windows |
 
 ---
 
