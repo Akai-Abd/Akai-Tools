@@ -3,8 +3,8 @@
 
 # 🧠 Akai’s Daily Useful GitHub Tools
 
-> 🚀 A curated collection of open-source tools and scripts for Windows & Linux — for working, studying, programming, and automating daily life.  
-> Automatically updates every day with the **top trending GitHub repositories** 🧩
+🚀 A curated collection of open-source tools and scripts for **Windows & Linux** — for working, studying, programming, and automating daily life.  
+Automatically updates every day with the top trending GitHub repositories 🧩  
 
 ---
 
@@ -18,7 +18,8 @@
 ---
 
 ## 🌟 Auto-Updating Trending Repos
-> 🔄 Live trending GitHub repositories (updated daily at 6 AM IST)
+> 🔄 Live trending GitHub repositories (updated daily at **6 AM IST**)  
+> 👉 [View Full List →](Akai-Tools.md)
 
 <!-- TRENDING-START -->
 <!-- TRENDING-END -->
@@ -26,6 +27,7 @@
 ---
 
 ## 🧩 Folder Structure
+
 
 ## 🪪 License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the [LICENSE](LICENSE) file for details.
