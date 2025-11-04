@@ -1,0 +1,43 @@
+name: 🚀 Auto Release Akai-Tools
+
+on:
+  push:
+    tags:
+      - 'v*'   # Triggers on tags like v1.0, v2.5.1, etc.
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎️ Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🧰 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Create ZIP Archive
+        run: |
+          zip -r Akai-Tools.zip . -x "*.git*" "*.github/*" "__pycache__/*"
+
+      - name: 🏷️ Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Akai-Tools.zip
+          name: "Akai-Tools ${{ github.ref_name }}"
+          body: |
+            ## 🧠 Akai’s Daily Useful GitHub Tools
+            🚀 Automatically packaged release of **Akai-Tools**  
+            Includes scripts and updates as of this tag: `${{ github.ref_name }}`
+
+            ### 📦 What's inside
+            - Updated Python automation scripts
+            - Daily trending GitHub fetcher
+            - System + AI utilities for Windows & Linux
+
+            ---
+            💖 Made with ❤️ by [Akai](https://github.com/Akai-Abd)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
