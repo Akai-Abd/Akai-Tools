@@ -3,10 +3,10 @@ name: 🚀 Auto Release Akai-Tools
 on:
   push:
     tags:
-      - 'v*'   # Triggers on tags like v1.0, v2.5.1, etc.
+      - 'v*'   # ✅ triggers when a tag like v1.0, v2.1, etc. is pushed
 
-      permissions:
-  contents: write
+permissions:
+  contents: write  # ✅ required for creating releases
 
 jobs:
   build-and-release:
@@ -32,7 +32,7 @@ jobs:
           name: "Akai-Tools ${{ github.ref_name }}"
           body: |
             ## 🧠 Akai’s Daily Useful GitHub Tools
-            🚀 Automatically packaged release of **Akai-Tools**  
+            🚀 Automatically packaged release of **Akai-Tools**
             Includes scripts and updates as of this tag: `${{ github.ref_name }}`
 
             ### 📦 What's inside
