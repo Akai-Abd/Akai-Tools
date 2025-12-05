@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2025-12-04 12:06 IST
+**Updated:** 2025-12-05 12:06 IST
 
-1. **[sansan0 /TrendRadar](https://github.com/sansan0/TrendRadar)** — 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
-2. **[google /adk-go](https://github.com/google/adk-go)** — An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-3. **[TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** — 所有小初高、大学PDF教材。
-4. **[yeongpin /cursor-free-vip](https://github.com/yeongpin/cursor-free-vip)** — [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-5. **[nvm-sh /nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-6. **[traefik /traefik](https://github.com/traefik/traefik)** — The Cloud Native Application Proxy
-7. **[HKUDS /LightRAG](https://github.com/HKUDS/LightRAG)** — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-8. **[bobeff /open-source-games](https://github.com/bobeff/open-source-games)** — A list of open source games.
-9. **[volcengine /verl](https://github.com/volcengine/verl)** — verl: Volcano Engine Reinforcement Learning for LLMs
-10. **[MemoriLabs /Memori](https://github.com/MemoriLabs/Memori)** — Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+1. **[basecamp /fizzy](https://github.com/basecamp/fizzy)** — Kanban as it should be. Not as it has been.
+2. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+3. **[DayuanJiang /next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** — A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+4. **[openai /codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal
+5. **[LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)** — Truly independent web browser
+6. **[ashishpatel26 /500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+7. **[sst /opencode](https://github.com/sst/opencode)** — The AI coding agent built for the terminal.
+8. **[ZJU-LLMs /Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)** — No description provided
+9. **[trustedsec /social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)** — The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+10. **[Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** — No description provided
 <!-- TRENDING-END -->
+
 
 
 
