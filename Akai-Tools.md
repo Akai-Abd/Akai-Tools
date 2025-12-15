@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2025-12-14 12:04 IST
+**Updated:** 2025-12-15 12:09 IST
 
-1. **[CopilotKit /CopilotKit](https://github.com/CopilotKit/CopilotKit)** — React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-2. **[DayuanJiang /next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** — A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-3. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-4. **[mindsdb /mindsdb](https://github.com/mindsdb/mindsdb)** — Federated query engine for AI - The only MCP Server you'll ever need
-5. **[simstudioai /sim](https://github.com/simstudioai/sim)** — Open-source platform to build and deploy AI agent workflows.
-6. **[Tencent /WeKnora](https://github.com/Tencent/WeKnora)** — LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-7. **[spipm /Depixelization_poc](https://github.com/spipm/Depixelization_poc)** — Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
-8. **[YimMenu /YimMenuV2](https://github.com/YimMenu/YimMenuV2)** — Experimental menu for GTA 5: Enhanced
-9. **[tursodatabase /turso](https://github.com/tursodatabase/turso)** — Turso is an in-process SQL database, compatible with SQLite.
-10. **[langgenius /dify](https://github.com/langgenius/dify)** — Production-ready platform for agentic workflow development.
+1. **[simstudioai /sim](https://github.com/simstudioai/sim)** — Open-source platform to build and deploy AI agent workflows.
+2. **[openai /codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal
+3. **[mdn /content](https://github.com/mdn/content)** — The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+4. **[Morganamilo /paru](https://github.com/Morganamilo/paru)** — Feature packed AUR helper
+5. **[Mebus /cupp](https://github.com/Mebus/cupp)** — Common User Passwords Profiler (CUPP)
+6. **[ZJU-LLMs /Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)** — A book for Learning the Foundations of LLMs
+7. **[daytonaio /daytona](https://github.com/daytonaio/daytona)** — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+8. **[shadcn-ui /ui](https://github.com/shadcn-ui/ui)** — A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+9. **[datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)** — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+10. **[HuLaSpark /HuLa](https://github.com/HuLaSpark/HuLa)** — 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
 <!-- TRENDING-END -->
+
 
 
 
