@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2025-12-23 12:08 IST
+**Updated:** 2025-12-24 12:08 IST
 
-1. **[exo-explore /exo](https://github.com/exo-explore/exo)** — Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-2. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
-3. **[swisskyrepo /PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)** — A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-4. **[GreyDGL /PentestGPT](https://github.com/GreyDGL/PentestGPT)** — A GPT-empowered penetration testing tool
-5. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-6. **[cocoindex-io /cocoindex](https://github.com/cocoindex-io/cocoindex)** — Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
-7. **[danielmiessler /Fabric](https://github.com/danielmiessler/Fabric)** — Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-8. **[tensorflow /tensorflow](https://github.com/tensorflow/tensorflow)** — An Open Source Machine Learning Framework for Everyone
-9. **[rendercv /rendercv](https://github.com/rendercv/rendercv)** — Typst-based CV/resume generator for academics and engineers
-10. **[home-assistant /core](https://github.com/home-assistant/core)** — 🏡 Open source home automation that puts local control and privacy first.
+1. **[rendercv /rendercv](https://github.com/rendercv/rendercv)** — Typst-based CV/resume generator for academics and engineers
+2. **[exo-explore /exo](https://github.com/exo-explore/exo)** — Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+3. **[google /langextract](https://github.com/google/langextract)** — A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+4. **[yichuan-w /LEANN](https://github.com/yichuan-w/LEANN)** — RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+5. **[safety-research /bloom](https://github.com/safety-research/bloom)** — bloom - evaluate any behavior immediately  🌸🌱
+6. **[stan-smith /FossFLOW](https://github.com/stan-smith/FossFLOW)** — Make beautiful isometric infrastructure diagrams
+7. **[vendure-ecommerce /vendure](https://github.com/vendure-ecommerce/vendure)** — The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
+8. **[cloudcommunity /Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** — A curated list of free courses with certifications. Also available athttps://free-certifications.com/
+9. **[open-webui /open-webui](https://github.com/open-webui/open-webui)** — User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+10. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
 <!-- TRENDING-END -->
+
 
 
 
