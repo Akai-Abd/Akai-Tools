@@ -4,19 +4,19 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-01-13 12:09 IST
+**Updated:** 2026-01-14 12:09 IST
 
-1. **[DioxusLabs /dioxus](https://github.com/DioxusLabs/dioxus)** — Fullstack app framework for web, desktop, and mobile.
-2. **[NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-3. **[frankbria /ralph-claude-code](https://github.com/frankbria/ralph-claude-code)** — Autonomous AI development loop for Claude Code with intelligent exit detection
-4. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
-5. **[hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
-6. **[bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-7. **[obra /superpowers](https://github.com/obra/superpowers)** — Claude Code superpowers: core skills library
-8. **[ruvnet /claude-flow](https://github.com/ruvnet/claude-flow)** — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
-9. **[home-assistant /home-assistant.io](https://github.com/home-assistant/home-assistant.io)** — 📘 Home Assistant User documentation
-10. **[mpv-player /mpv](https://github.com/mpv-player/mpv)** — 🎥 Command line media player
+1. **[obra /superpowers](https://github.com/obra/superpowers)** — Claude Code superpowers: core skills library
+2. **[icloud-photos-downloader /icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)** — A command-line tool to download photos from iCloud
+3. **[blakeblackshear /frigate](https://github.com/blakeblackshear/frigate)** — NVR with realtime local object detection for IP cameras
+4. **[twitter /the-algorithm](https://github.com/twitter/the-algorithm)** — Source code for the X Recommendation Algorithm
+5. **[home-assistant /home-assistant.io](https://github.com/home-assistant/home-assistant.io)** — 📘 Home Assistant User documentation
+6. **[chidiwilliams /buzz](https://github.com/chidiwilliams/buzz)** — Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+7. **[adam-maj /tiny-gpu](https://github.com/adam-maj/tiny-gpu)** — A minimal GPU design in Verilog to learn how GPUs work from the ground up
+8. **[Free-TV /IPTV](https://github.com/Free-TV/IPTV)** — M3U Playlist for free TV channels
+9. **[onlook-dev /onlook](https://github.com/onlook-dev/onlook)** — The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 <!-- TRENDING-END -->
+
 
 
 
