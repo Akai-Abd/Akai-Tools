@@ -4,16 +4,18 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-01-21 12:11 IST
+**Updated:** 2026-01-22 12:09 IST
 
-1. **[microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents.
-2. **[iOfficeAI /AionUi](https://github.com/iOfficeAI/AionUi)** — Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-3. **[google /langextract](https://github.com/google/langextract)** — A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-4. **[AlexxIT /go2rtc](https://github.com/AlexxIT/go2rtc)** — Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-5. **[lukasz-madon /awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)** — A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python
-6. **[tobi /try](https://github.com/tobi/try)** — fresh directories for every vibe
-7. **[DavidXanatos /TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)** — Power full Task Manager
+1. **[tambo-ai /tambo](https://github.com/tambo-ai/tambo)** — Generative UI SDK for React
+2. **[EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** — Official Claude Code compound engineering plugin
+3. **[twitter /the-algorithm](https://github.com/twitter/the-algorithm)** — Source code for the X Recommendation Algorithm
+4. **[xai-org /grok-1](https://github.com/xai-org/grok-1)** — Grok open release
+5. **[microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents.
+6. **[VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)** — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+7. **[microsoft /Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)** — 10 Weeks, 20 Lessons, Data Science for All!
+8. **[tobi /try](https://github.com/tobi/try)** — fresh directories for every vibe
 <!-- TRENDING-END -->
+
 
 
 
