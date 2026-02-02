@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-02-01 12:24 IST
+**Updated:** 2026-02-02 12:36 IST
 
-1. **[ThePrimeagen /99](https://github.com/ThePrimeagen/99)** — Neovim AI agent done right
-2. **[microsoft /BitNet](https://github.com/microsoft/BitNet)** — Official inference framework for 1-bit LLMs
-3. **[microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents.
-4. **[PaddlePaddle /PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-5. **[anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins.
-6. **[microsoft /PowerToys](https://github.com/microsoft/PowerToys)** — Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-7. **[termux /termux-app](https://github.com/termux/termux-app)** — Termux - a terminal emulator application for Android OS extendible by variety of packages.
-8. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-9. **[pedroslopez /whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)** — A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-10. **[AlexanderGrooff /mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii)** — Render Mermaid graphs inside your terminal
+1. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+2. **[ThePrimeagen /99](https://github.com/ThePrimeagen/99)** — Neovim AI agent done right
+3. **[pedramamini /Maestro](https://github.com/pedramamini/Maestro)** — Agent Orchestration Command Center
+4. **[kovidgoyal /calibre](https://github.com/kovidgoyal/calibre)** — The official source code repository for the calibre ebook manager
+5. **[badlogic /pi-mono](https://github.com/badlogic/pi-mono)** — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+6. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+7. **[microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents.
+8. **[amantus-ai /vibetunnel](https://github.com/amantus-ai/vibetunnel)** — Turn any browser into your terminal & command your agents on the go.
+9. **[steipete /CodexBar](https://github.com/steipete/CodexBar)** — Show usage stats for OpenAI Codex and Claude Code, without having to login.
+10. **[j178 /prek](https://github.com/j178/prek)** — ⚡ Better `pre-commit`, re-engineered in Rust
 <!-- TRENDING-END -->
+
 
 
 
