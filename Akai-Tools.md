@@ -4,17 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-02-07 12:19 IST
+**Updated:** 2026-02-08 12:25 IST
 
-1. **[openai /skills](https://github.com/openai/skills)** — Skills Catalog for Codex
-2. **[bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-3. **[nvm-sh /nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-4. **[likec4 /likec4](https://github.com/likec4/likec4)** — Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
-5. **[aquasecurity /trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-6. **[ZeroTworu /anet](https://github.com/ZeroTworu/anet)** — Simple Rust VPN Client / Server
-7. **[Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** — No description provided
-8. **[DataExpert-io /data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)** — This is a repo with links to everything you'd ever want to learn about data engineering
+1. **[KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)** — Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+2. **[openai /skills](https://github.com/openai/skills)** — Skills Catalog for Codex
+3. **[microsoft /litebox](https://github.com/microsoft/litebox)** — A security-focused library OS supporting kernel- and user-mode execution
+4. **[p-e-w /heretic](https://github.com/p-e-w/heretic)** — Fully automatic censorship removal for language models
+5. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+6. **[OpenBMB /MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)** — A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+7. **[aquasecurity /trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+8. **[wavetermdev /waveterm](https://github.com/wavetermdev/waveterm)** — An open-source, cross-platform terminal for seamless workflows
+9. **[viarotel-org /escrcpy](https://github.com/viarotel-org/escrcpy)** — 📱 Display and control your Android device graphically with scrcpy.
+10. **[ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 <!-- TRENDING-END -->
+
 
 
 
