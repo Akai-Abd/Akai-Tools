@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-02-16 12:37 IST
+**Updated:** 2026-02-17 12:33 IST
 
-1. **[nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)** — A high-performance algorithmic trading platform and event-driven backtester
-2. **[steipete /gogcli](https://github.com/steipete/gogcli)** — Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+1. **[alibaba /zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
+2. **[nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)** — A high-performance algorithmic trading platform and event-driven backtester
 3. **[rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)** — Open-source AI coworker, with memory
-4. **[github /gh-aw](https://github.com/github/gh-aw)** — GitHub Agentic Workflows
-5. **[ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents
-6. **[alibaba /zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
-7. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-8. **[moonshine-ai /moonshine](https://github.com/moonshine-ai/moonshine)** — Fast and accurate automatic speech recognition (ASR) for edge devices
-9. **[brave /brave-browser](https://github.com/brave/brave-browser)** — Brave browser for Android, iOS, Linux, macOS, Windows.
-10. **[SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)** — Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+4. **[steipete /gogcli](https://github.com/steipete/gogcli)** — Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+5. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+6. **[SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)** — Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+7. **[letta-ai /letta-code](https://github.com/letta-ai/letta-code)** — The memory-first coding agent
+8. **[ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)** — Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+9. **[seerr-team /seerr](https://github.com/seerr-team/seerr)** — Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+10. **[hummingbot /hummingbot](https://github.com/hummingbot/hummingbot)** — Open source software that helps you create and deploy high-frequency crypto trading bots
 <!-- TRENDING-END -->
+
 
 
 
