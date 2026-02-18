@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-02-17 12:33 IST
+**Updated:** 2026-02-18 12:35 IST
 
-1. **[alibaba /zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
-2. **[nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)** — A high-performance algorithmic trading platform and event-driven backtester
-3. **[rowboatlabs /rowboat](https://github.com/rowboatlabs/rowboat)** — Open-source AI coworker, with memory
+1. **[p-e-w /heretic](https://github.com/p-e-w/heretic)** — Fully automatic censorship removal for language models
+2. **[seerr-team /seerr](https://github.com/seerr-team/seerr)** — Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 4. **[steipete /gogcli](https://github.com/steipete/gogcli)** — Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-5. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-6. **[SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)** — Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-7. **[letta-ai /letta-code](https://github.com/letta-ai/letta-code)** — The memory-first coding agent
-8. **[ruvnet /wifi-densepose](https://github.com/ruvnet/wifi-densepose)** — Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
-9. **[seerr-team /seerr](https://github.com/seerr-team/seerr)** — Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+5. **[alibaba /zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
+6. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+7. **[SynkraAI /aios-core](https://github.com/SynkraAI/aios-core)** — Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+8. **[ashishps1 /awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)** — Learn System Design concepts and prepare for interviews using free resources.
+9. **[steipete /summarize](https://github.com/steipete/summarize)** — Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 10. **[hummingbot /hummingbot](https://github.com/hummingbot/hummingbot)** — Open source software that helps you create and deploy high-frequency crypto trading bots
 <!-- TRENDING-END -->
+
 
 
 
