@@ -4,17 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-02-20 12:31 IST
+**Updated:** 2026-02-21 12:18 IST
 
-1. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-2. **[RichardAtCT /claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram)** — A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
-3. **[open-mercato /open-mercato](https://github.com/open-mercato/open-mercato)** — AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
-4. **[harvard-edge /cs249r_book](https://github.com/harvard-edge/cs249r_book)** — Introduction to Machine Learning Systems
-5. **[HailToDodongo /pyrite64](https://github.com/HailToDodongo/pyrite64)** — N64 Game-Engine and Editor using libdragon & tiny3d
-6. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-7. **[freemocap /freemocap](https://github.com/freemocap/freemocap)** — Free Motion Capture for Everyone 💀✨
-8. **[p-e-w /heretic](https://github.com/p-e-w/heretic)** — Fully automatic censorship removal for language models
+1. **[vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)** — ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+2. **[blackboardsh /electrobun](https://github.com/blackboardsh/electrobun)** — Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+3. **[HailToDodongo /pyrite64](https://github.com/HailToDodongo/pyrite64)** — N64 Game-Engine and Editor using libdragon & tiny3d
+4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+5. **[aquasecurity /trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+6. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+7. **[eslint /eslint](https://github.com/eslint/eslint)** — Find and fix problems in your JavaScript code.
+8. **[anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins.
+9. **[Effect-TS /effect-smol](https://github.com/Effect-TS/effect-smol)** — Core libraries and experimental work for Effect v4
+10. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 <!-- TRENDING-END -->
+
 
 
 
