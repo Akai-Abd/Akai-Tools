@@ -4,18 +4,19 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-03-21 12:20 IST
+**Updated:** 2026-03-22 12:26 IST
 
-1. **[jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)** — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-2. **[langchain-ai /open-swe](https://github.com/langchain-ai/open-swe)** — An Open-Source Asynchronous Coding Agent
-3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-4. **[opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-5. **[louis-e /arnis](https://github.com/louis-e/arnis)** — Generate any location from the real world in Minecraft with a high level of detail.
-6. **[newton-physics /newton](https://github.com/newton-physics/newton)** — An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-7. **[vas3k /TaxHacker](https://github.com/vas3k/TaxHacker)** — Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-8. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-9. **[openrocket /openrocket](https://github.com/openrocket/openrocket)** — Model-rocketry aerodynamics and trajectory simulation software
+1. **[FujiwaraChoki /MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automate the process of making money online.
+2. **[systemd /systemd](https://github.com/systemd/systemd)** — The systemd System and Service Manager
+3. **[aquasecurity /trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+4. **[Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+5. **[opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+6. **[jarrodwatts /claude-hud](https://github.com/jarrodwatts/claude-hud)** — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+7. **[protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)** — Protocol Buffers - Google's data interchange format
+8. **[vllm-project /vllm-omni](https://github.com/vllm-project/vllm-omni)** — A framework for efficient model inference with omni-modality models
+9. **[louis-e /arnis](https://github.com/louis-e/arnis)** — Generate any location from the real world in Minecraft with a high level of detail.
 <!-- TRENDING-END -->
+
 
 
 
