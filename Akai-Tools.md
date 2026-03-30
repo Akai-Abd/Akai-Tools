@@ -4,18 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-03-29 12:38 IST
+**Updated:** 2026-03-30 13:17 IST
 
-1. **[hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
-2. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-3. **[SakanaAI /AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-4. **[virattt /dexter](https://github.com/virattt/dexter)** — An autonomous agent for deep financial research
-5. **[twentyhq /twenty](https://github.com/twentyhq/twenty)** — Building a modern alternative to Salesforce, powered by the community.
-6. **[onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM
-7. **[datalab-to /chandra](https://github.com/datalab-to/chandra)** — OCR model that handles complex tables, forms, handwriting with full layout.
-8. **[agentscope-ai /agentscope](https://github.com/agentscope-ai/agentscope)** — Build and run agents you can see, understand and trust.
-9. **[apache /superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform
+1. **[luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)** — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+2. **[Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** — Teams-first Multi-agent orchestration for Claude Code
+3. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
+4. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+5. **[OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Financial data platform for analysts, quants and AI agents.
+6. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+7. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+8. **[hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
+9. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+10. **[shareAI-lab /learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** — Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
 <!-- TRENDING-END -->
+
 
 
 
