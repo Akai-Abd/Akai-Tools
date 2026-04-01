@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-03-31 12:50 IST
+**Updated:** 2026-04-01 12:56 IST
 
-1. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
-2. **[luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)** — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-3. **[shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** — practice made claude perfect
-4. **[hacksider /Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — real time face swap and one-click video deepfake with only a single image
-5. **[OpenBB-finance /OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Financial data platform for analysts, quants and AI agents.
-6. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-7. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
-8. **[apache /superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform
-9. **[fastfetch-cli /fastfetch](https://github.com/fastfetch-cli/fastfetch)** — A maintained, feature-rich and performance oriented, neofetch like system information tool.
-10. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+1. **[luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)** — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+2. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
+3. **[Yeachan-Heo /oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** — Teams-first Multi-agent orchestration for Claude Code
+4. **[shanraisshan /claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** — practice made claude perfect
+5. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+6. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+7. **[microsoft /agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents.
+8. **[PaddlePaddle /PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+9. **[Dimillian /Skills](https://github.com/Dimillian/Skills)** — My Codex Skills
+10. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
 <!-- TRENDING-END -->
+
 
 
 
