@@ -4,16 +4,14 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-02 12:47 IST
+**Updated:** 2026-04-03 12:44 IST
 
-1. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-2. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
-3. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-4. **[luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)** — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-5. **[axios /axios](https://github.com/axios/axios)** — Promise based HTTP client for the browser and node.js
-6. **[openai /codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal
-7. **[f /prompts.chat](https://github.com/f/prompts.chat)** — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+1. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+2. **[Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+3. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+4. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
 <!-- TRENDING-END -->
+
 
 
 
