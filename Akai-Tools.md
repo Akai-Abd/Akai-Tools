@@ -4,13 +4,17 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-03 12:44 IST
+**Updated:** 2026-04-04 12:35 IST
 
-1. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-2. **[Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-3. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
-4. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+1. **[Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+2. **[onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM
+3. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+4. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+5. **[dmtrKovalenko /fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+6. **[f /prompts.chat](https://github.com/f/prompts.chat)** — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+7. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
 <!-- TRENDING-END -->
+
 
 
 
