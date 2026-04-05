@@ -4,16 +4,18 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-04 12:35 IST
+**Updated:** 2026-04-05 12:41 IST
 
-1. **[Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+1. **[Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 2. **[onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM
-3. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+3. **[Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 4. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-5. **[dmtrKovalenko /fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
-6. **[f /prompts.chat](https://github.com/f/prompts.chat)** — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-7. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+5. **[telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)** — Telegram Desktop messaging app
+6. **[block /goose](https://github.com/block/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+7. **[microsoft /agent-framework](https://github.com/microsoft/agent-framework)** — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+8. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
 <!-- TRENDING-END -->
+
 
 
 
