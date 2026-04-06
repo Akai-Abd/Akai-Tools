@@ -4,17 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-05 12:41 IST
+**Updated:** 2026-04-06 13:18 IST
 
-1. **[Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-2. **[onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM
-3. **[Yeachan-Heo /oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-4. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-5. **[telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)** — Telegram Desktop messaging app
-6. **[block /goose](https://github.com/block/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-7. **[microsoft /agent-framework](https://github.com/microsoft/agent-framework)** — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-8. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+1. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+2. **[Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+3. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+4. **[block /goose](https://github.com/block/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+5. **[onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM
+6. **[badlogic /pi-mono](https://github.com/badlogic/pi-mono)** — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+7. **[dmtrKovalenko /fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+8. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
+9. **[telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)** — Telegram Desktop messaging app
+10. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 <!-- TRENDING-END -->
+
 
 
 
