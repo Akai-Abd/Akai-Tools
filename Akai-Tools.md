@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-06 13:18 IST
+**Updated:** 2026-04-07 12:53 IST
 
-1. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-2. **[Blaizzy /mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-3. **[siddharthvaddem /openscreen](https://github.com/siddharthvaddem/openscreen)** — Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-4. **[block /goose](https://github.com/block/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-5. **[onyx-dot-app /onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM
-6. **[badlogic /pi-mono](https://github.com/badlogic/pi-mono)** — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-7. **[dmtrKovalenko /fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
-8. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
-9. **[telegramdesktop /tdesktop](https://github.com/telegramdesktop/tdesktop)** — Telegram Desktop messaging app
-10. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+1. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+2. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+3. **[aaif-goose /goose](https://github.com/aaif-goose/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+4. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
+5. **[immich-app /immich](https://github.com/immich-app/immich)** — High performance self-hosted photo and video management solution.
+6. **[KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)** — Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+7. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+8. **[tobi /qmd](https://github.com/tobi/qmd)** — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+9. **[TelegramMessenger /Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)** — Telegram-iOS
+10. **[kepano /obsidian-skills](https://github.com/kepano/obsidian-skills)** — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 <!-- TRENDING-END -->
+
 
 
 
