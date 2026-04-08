@@ -4,19 +4,19 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-07 12:53 IST
+**Updated:** 2026-04-08 12:56 IST
 
-1. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-2. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-3. **[aaif-goose /goose](https://github.com/aaif-goose/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-4. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
-5. **[immich-app /immich](https://github.com/immich-app/immich)** — High performance self-hosted photo and video management solution.
-6. **[KeygraphHQ /shannon](https://github.com/KeygraphHQ/shannon)** — Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
-7. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
-8. **[tobi /qmd](https://github.com/tobi/qmd)** — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-9. **[TelegramMessenger /Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)** — Telegram-iOS
-10. **[kepano /obsidian-skills](https://github.com/kepano/obsidian-skills)** — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+1. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+2. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
+3. **[NVIDIA /personaplex](https://github.com/NVIDIA/personaplex)** — PersonaPlex code.
+4. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+5. **[tobi /qmd](https://github.com/tobi/qmd)** — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+6. **[forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — No description provided
+7. **[elebumm /RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)** — Create Reddit Videos with just✨ one command ✨
+8. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — "DeepTutor: Agent-Native Personalized Learning Assistant"
+9. **[TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)** — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 <!-- TRENDING-END -->
+
 
 
 
