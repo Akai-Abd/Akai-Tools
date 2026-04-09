@@ -4,18 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-08 12:56 IST
+**Updated:** 2026-04-09 13:12 IST
 
-1. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-2. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
-3. **[NVIDIA /personaplex](https://github.com/NVIDIA/personaplex)** — PersonaPlex code.
-4. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-5. **[tobi /qmd](https://github.com/tobi/qmd)** — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-6. **[forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — No description provided
-7. **[elebumm /RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)** — Create Reddit Videos with just✨ one command ✨
-8. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — "DeepTutor: Agent-Native Personalized Learning Assistant"
-9. **[TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)** — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+1. **[forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+2. **[TheCraigHewitt /seomachine](https://github.com/TheCraigHewitt/seomachine)** — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+3. **[google-ai-edge /gallery](https://github.com/google-ai-edge/gallery)** — A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+4. **[NVIDIA /personaplex](https://github.com/NVIDIA/personaplex)** — PersonaPlex code.
+5. **[google-ai-edge /LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — No description provided
+6. **[elebumm /RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)** — Create Reddit Videos with just✨ one command ✨
+7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+8. **[newton-physics /newton](https://github.com/newton-physics/newton)** — An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+9. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+10. **[virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team
 <!-- TRENDING-END -->
+
 
 
 
