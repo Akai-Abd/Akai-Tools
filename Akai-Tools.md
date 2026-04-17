@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-16 13:23 IST
+**Updated:** 2026-04-17 13:23 IST
 
 1. **[forrestchang /andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-2. **[pascalorg /editor](https://github.com/pascalorg/editor)** — Create and share 3D architectural projects.
-3. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-4. **[Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程
-5. **[virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team
-6. **[chrislgarry /Apollo-11](https://github.com/chrislgarry/Apollo-11)** — Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-8. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source voice synthesis studio
-9. **[public-apis /public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-10. **[vercel-labs /open-agents](https://github.com/vercel-labs/open-agents)** — An open source template for building cloud agents.
+2. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+3. **[lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)** — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+4. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source voice synthesis studio
+5. **[vercel-labs /open-agents](https://github.com/vercel-labs/open-agents)** — An open source template for building cloud agents.
+6. **[google /magika](https://github.com/google/magika)** — Fast and accurate AI powered file content types detection
+7. **[steipete /wacli](https://github.com/steipete/wacli)** — WhatsApp CLI
+8. **[topoteretes /cognee](https://github.com/topoteretes/cognee)** — Knowledge Engine for AI Agent Memory in 6 lines of code
+9. **[z-lab /dflash](https://github.com/z-lab/dflash)** — DFlash: Block Diffusion for Flash Speculative Decoding
+10. **[Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程
 <!-- TRENDING-END -->
+
 
 
 
