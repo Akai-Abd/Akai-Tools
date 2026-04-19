@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-18 12:43 IST
+**Updated:** 2026-04-19 12:54 IST
 
-1. **[EvoMap /evolver](https://github.com/EvoMap/evolver)** — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-2. **[lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)** — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-3. **[SimoneAvogadro /android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** — Claude Code skill to support Android app's reverse engineering
-4. **[BasedHardware /omi](https://github.com/BasedHardware/omi)** — AI that sees your screen, listens to your conversations and tells you what to do
-5. **[Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程
-6. **[Donchitos /Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-7. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source voice synthesis studio
-8. **[lukilabs /craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** — No description provided
-9. **[Tracer-Cloud /opensre](https://github.com/Tracer-Cloud/opensre)** — Build your own AI SRE agents. The open source toolkit for the AI era ✨
-10. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+1. **[thunderbird /thunderbolt](https://github.com/thunderbird/thunderbolt)** — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+2. **[BasedHardware /omi](https://github.com/BasedHardware/omi)** — AI that sees your screen, listens to your conversations and tells you what to do
+3. **[openai /openai-agents-python](https://github.com/openai/openai-agents-python)** — A lightweight, powerful framework for multi-agent workflows
+4. **[EvoMap /evolver](https://github.com/EvoMap/evolver)** — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+5. **[deepseek-ai /DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** — DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+6. **[Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程
+7. **[aaddrick /claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** — Claude Desktop for Debian-based Linux distributions
+8. **[rustdesk /rustdesk](https://github.com/rustdesk/rustdesk)** — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+9. **[SimoneAvogadro /android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** — Claude Code skill to support Android app's reverse engineering
+10. **[tractorjuice /arc-kit](https://github.com/tractorjuice/arc-kit)** — Enterprise Architecture Governance & Vendor Procurement Toolkit
 <!-- TRENDING-END -->
+
 
 
 
