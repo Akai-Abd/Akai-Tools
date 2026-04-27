@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-26 13:14 IST
+**Updated:** 2026-04-27 14:01 IST
 
-1. **[Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — My personal directory of skills, straight from my .claude directory.
+1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Agent Skills for real engineers. Straight from my .claude directory.
+2. **[Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 3. **[Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)** — ALL IN ONE Hacking Tool For Hackers
-4. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-5. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
-6. **[deepseek-ai /DeepEP](https://github.com/deepseek-ai/DeepEP)** — DeepEP: an efficient expert-parallel communication library
-7. **[PowerShell /PowerShell](https://github.com/PowerShell/PowerShell)** — PowerShell for every system!
-8. **[RooCodeInc /Roo-Code](https://github.com/RooCodeInc/Roo-Code)** — Roo Code gives you a whole dev team of AI agents in your code editor.
-9. **[huggingface /ml-intern](https://github.com/huggingface/ml-intern)** — 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
-10. **[codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
+4. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+5. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+6. **[microsoft /typescript-go](https://github.com/microsoft/typescript-go)** — Staging repo for development of native port of TypeScript
+7. **[trycua /cua](https://github.com/trycua/cua)** — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+8. **[gastownhall /beads](https://github.com/gastownhall/beads)** — Beads - A memory upgrade for your coding agent
+9. **[curl /curl](https://github.com/curl/curl)** — A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+10. **[home-assistant /core](https://github.com/home-assistant/core)** — 🏡 Open source home automation that puts local control and privacy first.
 <!-- TRENDING-END -->
+
 
 
 
