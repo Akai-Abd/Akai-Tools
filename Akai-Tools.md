@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-27 14:01 IST
+**Updated:** 2026-04-28 13:59 IST
 
-1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Agent Skills for real engineers. Straight from my .claude directory.
-2. **[Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-3. **[Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)** — ALL IN ONE Hacking Tool For Hackers
-4. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-5. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-6. **[microsoft /typescript-go](https://github.com/microsoft/typescript-go)** — Staging repo for development of native port of TypeScript
-7. **[trycua /cua](https://github.com/trycua/cua)** — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-8. **[gastownhall /beads](https://github.com/gastownhall/beads)** — Beads - A memory upgrade for your coding agent
-9. **[curl /curl](https://github.com/curl/curl)** — A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-10. **[home-assistant /core](https://github.com/home-assistant/core)** — 🏡 Open source home automation that puts local control and privacy first.
+1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+2. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+3. **[ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** — A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+4. **[Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+5. **[gastownhall /beads](https://github.com/gastownhall/beads)** — Beads - A memory upgrade for your coding agent
+6. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design tool for design and code collaboration
+7. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
+8. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
+9. **[Z4nzu /hackingtool](https://github.com/Z4nzu/hackingtool)** — ALL IN ONE Hacking Tool For Hackers
+10. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
 <!-- TRENDING-END -->
+
 
 
 
