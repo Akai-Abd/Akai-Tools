@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-04-29 13:53 IST
+**Updated:** 2026-04-30 13:56 IST
 
-1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-2. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-3. **[ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** — A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-4. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
-5. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
-6. **[HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)** — Useful tool to track location or mobile number
-7. **[fspecii /ace-step-ui](https://github.com/fspecii/ace-step-ui)** — 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
-8. **[public-apis /public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-9. **[CJackHwang /ds2api](https://github.com/CJackHwang/ds2api)** — Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
-10. **[Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or discord like openclaw
+1. **[warpdotdev /warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.
+2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+3. **[HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)** — Useful tool to track location or mobile number
+4. **[ComposioHQ /awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** — A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+5. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
+6. **[abhigyanpatwari /GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+7. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
+8. **[CJackHwang /ds2api](https://github.com/CJackHwang/ds2api)** — Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+9. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+10. **[ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 <!-- TRENDING-END -->
+
 
 
 
