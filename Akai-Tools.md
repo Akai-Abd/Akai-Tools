@@ -4,19 +4,19 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-01 13:46 IST
+**Updated:** 2026-05-02 13:18 IST
 
-1. **[warpdotdev /warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.
-2. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-3. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-5. **[lukilabs /craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** — No description provided
-6. **[public-apis /public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-7. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
-8. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-9. **[HunxByts /GhostTrack](https://github.com/HunxByts/GhostTrack)** — Useful tool to track location or mobile number
-10. **[iamgio /quarkdown](https://github.com/iamgio/quarkdown)** — 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+1. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
+2. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+3. **[warpdotdev /warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.
+4. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
+5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+6. **[browserbase /skills](https://github.com/browserbase/skills)** — Claude Agent SDK with a web browsing tool
+7. **[simstudioai /sim](https://github.com/simstudioai/sim)** — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+8. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+9. **[Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** — No description provided
 <!-- TRENDING-END -->
+
 
 
 
