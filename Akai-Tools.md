@@ -4,18 +4,18 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-02 13:18 IST
+**Updated:** 2026-05-03 13:34 IST
 
 1. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-2. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-3. **[warpdotdev /warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal.
-4. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
-5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-6. **[browserbase /skills](https://github.com/browserbase/skills)** — Claude Agent SDK with a web browsing tool
-7. **[simstudioai /sim](https://github.com/simstudioai/sim)** — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
-8. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-9. **[Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** — No description provided
+2. **[ruvnet /ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+3. **[browserbase /skills](https://github.com/browserbase/skills)** — Claude Agent SDK with a web browsing tool
+4. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+5. **[Flowseal /zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** — No description provided
+6. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
+7. **[ShareX /ShareX](https://github.com/ShareX/ShareX)** — ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+8. **[jwasham /coding-interview-university](https://github.com/jwasham/coding-interview-university)** — A complete computer science study plan to become a software engineer.
 <!-- TRENDING-END -->
+
 
 
 
