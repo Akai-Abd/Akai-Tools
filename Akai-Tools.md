@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-05 13:45 IST
+**Updated:** 2026-05-07 14:08 IST
 
-1. **[ruvnet /ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-2. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-3. **[browserbase /skills](https://github.com/browserbase/skills)** — Claude Agent SDK with a web browsing tool
-4. **[Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — Coding agent for DeepSeek models that runs in your terminal
-5. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-6. **[qbittorrent /qBittorrent](https://github.com/qbittorrent/qBittorrent)** — qBittorrent BitTorrent client
-7. **[czlonkowski /n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-8. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness
-9. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-10. **[virattt /dexter](https://github.com/virattt/dexter)** — An autonomous agent for deep financial research
+1. **[Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — Coding agent for DeepSeek models that runs in your terminal
+2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+3. **[PriorLabs /TabPFN](https://github.com/PriorLabs/TabPFN)** — ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+4. **[docusealco /docuseal](https://github.com/docusealco/docuseal)** — Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+5. **[LearningCircuit /local-deep-research](https://github.com/LearningCircuit/local-deep-research)** — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+6. **[LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)** — Truly independent web browser
+7. **[InsForge /InsForge](https://github.com/InsForge/InsForge)** — InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
+8. **[virattt /dexter](https://github.com/virattt/dexter)** — An autonomous agent for deep financial research
+9. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
+10. **[ruvnet /ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 <!-- TRENDING-END -->
+
 
 
 
