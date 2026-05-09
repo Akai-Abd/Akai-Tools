@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-08 13:15 IST
+**Updated:** 2026-05-09 13:30 IST
 
 1. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
-2. **[Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — Coding agent for DeepSeek models that runs in your terminal
-3. **[z-lab /dflash](https://github.com/z-lab/dflash)** — DFlash: Block Diffusion for Flash Speculative Decoding
-4. **[InsForge /InsForge](https://github.com/InsForge/InsForge)** — The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
-5. **[LearningCircuit /local-deep-research](https://github.com/LearningCircuit/local-deep-research)** — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-7. **[VectifyAI /PageIndex](https://github.com/VectifyAI/PageIndex)** — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-8. **[vercel-labs /open-agents](https://github.com/vercel-labs/open-agents)** — An open source template for building cloud agents.
-9. **[docusealco /docuseal](https://github.com/docusealco/docuseal)** — Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-10. **[decolua /9router](https://github.com/decolua/9router)** — 🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+3. **[Hmbown /DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — Coding agent for DeepSeek models that runs in your terminal
+4. **[z-lab /dflash](https://github.com/z-lab/dflash)** — DFlash: Block Diffusion for Flash Speculative Decoding
+5. **[decolua /9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+6. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+7. **[awslabs /aidlc-workflows](https://github.com/awslabs/aidlc-workflows)** — AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
+8. **[HKUDS /AI-Trader](https://github.com/HKUDS/AI-Trader)** — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
+9. **[LearningCircuit /local-deep-research](https://github.com/LearningCircuit/local-deep-research)** — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+10. **[lobehub /lobehub](https://github.com/lobehub/lobehub)** — The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 <!-- TRENDING-END -->
+
 
 
 
