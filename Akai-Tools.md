@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-11 15:16 IST
+**Updated:** 2026-05-12 14:14 IST
 
 1. **[bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-2. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
-3. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-4. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-5. **[HKUDS /AI-Trader](https://github.com/HKUDS/AI-Trader)** — "AI-Trader: 100% Fully-Automated Agent-Native Trading"
-6. **[jundot /omlx](https://github.com/jundot/omlx)** — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-7. **[datawhalechina /easy-vibe](https://github.com/datawhalechina/easy-vibe)** — 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
-8. **[playcanvas /supersplat](https://github.com/playcanvas/supersplat)** — 3D Gaussian Splat Editor
-9. **[lsdefine /GenericAgent](https://github.com/lsdefine/GenericAgent)** — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-10. **[decolua /9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+2. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+3. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
+4. **[playcanvas /supersplat](https://github.com/playcanvas/supersplat)** — 3D Gaussian Splat Editor
+5. **[datawhalechina /easy-vibe](https://github.com/datawhalechina/easy-vibe)** — 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+6. **[decolua /9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+7. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
+8. **[millionco /react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
+9. **[Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程
+10. **[AUTOMATIC1111 /stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion web UI
 <!-- TRENDING-END -->
+
 
 
 
