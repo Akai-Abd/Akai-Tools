@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-12 14:14 IST
+**Updated:** 2026-05-13 14:18 IST
 
-1. **[bytedance /UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-2. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-3. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
-4. **[playcanvas /supersplat](https://github.com/playcanvas/supersplat)** — 3D Gaussian Splat Editor
-5. **[datawhalechina /easy-vibe](https://github.com/datawhalechina/easy-vibe)** — 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
-6. **[decolua /9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-7. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
-8. **[millionco /react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
-9. **[Lordog /dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程
-10. **[AUTOMATIC1111 /stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion web UI
+1. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
+2. **[rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
+3. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+4. **[apernet /hysteria](https://github.com/apernet/hysteria)** — Hysteria is a powerful, lightning fast and censorship resistant proxy.
+5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+6. **[anonfaded /FadCam](https://github.com/anonfaded/FadCam)** — Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
+7. **[millionco /react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
+8. **[rasbt /LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** — Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+9. **[datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)** — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+10. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
 <!-- TRENDING-END -->
+
 
 
 
