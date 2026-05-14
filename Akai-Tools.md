@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-13 14:18 IST
+**Updated:** 2026-05-14 14:11 IST
 
 1. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
 2. **[rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
-3. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-4. **[apernet /hysteria](https://github.com/apernet/hysteria)** — Hysteria is a powerful, lightning fast and censorship resistant proxy.
-5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-6. **[anonfaded /FadCam](https://github.com/anonfaded/FadCam)** — Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
-7. **[millionco /react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
-8. **[rasbt /LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** — Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-9. **[datawhalechina /hello-agents](https://github.com/datawhalechina/hello-agents)** — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-10. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
+3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+4. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
+5. **[influxdata /telegraf](https://github.com/influxdata/telegraf)** — Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+6. **[millionco /react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
+7. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+8. **[danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** — Agentic AI Infrastructure for magnifying HUMAN capabilities.
+9. **[supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)** — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+10. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 <!-- TRENDING-END -->
+
 
 
 
