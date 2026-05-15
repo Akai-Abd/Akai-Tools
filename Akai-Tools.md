@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-14 14:11 IST
+**Updated:** 2026-05-15 14:22 IST
 
-1. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
-2. **[rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
-3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-4. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
-5. **[influxdata /telegraf](https://github.com/influxdata/telegraf)** — Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-6. **[millionco /react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it
-7. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-8. **[danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** — Agentic AI Infrastructure for magnifying HUMAN capabilities.
+1. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+2. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
+3. **[rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
+4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+5. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+6. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
+7. **[roboflow /supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
+8. **[influxdata /telegraf](https://github.com/influxdata/telegraf)** — Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 9. **[supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)** — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-10. **[CloakHQ /CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+10. **[Genymobile /scrcpy](https://github.com/Genymobile/scrcpy)** — Display and control your Android device
 <!-- TRENDING-END -->
+
 
 
 
