@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-15 14:22 IST
+**Updated:** 2026-05-16 13:37 IST
 
-1. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-2. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
-3. **[rohitg00 /agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks
-4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-5. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-6. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
-7. **[roboflow /supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
-8. **[influxdata /telegraf](https://github.com/influxdata/telegraf)** — Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-9. **[supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)** — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-10. **[Genymobile /scrcpy](https://github.com/Genymobile/scrcpy)** — Display and control your Android device
+1. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
+2. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+3. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+4. **[supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)** — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+5. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+6. **[influxdata /telegraf](https://github.com/influxdata/telegraf)** — Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+7. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+8. **[czlonkowski /n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+9. **[NVIDIA-AI-Blueprints /video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)** — Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+10. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 <!-- TRENDING-END -->
+
 
 
 
