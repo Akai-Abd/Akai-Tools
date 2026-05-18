@@ -4,17 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-17 13:54 IST
+**Updated:** 2026-05-18 15:40 IST
 
-1. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-2. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-4. **[Anil-matcha /Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** — Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-5. **[supertone-inc /supertonic](https://github.com/supertone-inc/supertonic)** — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-6. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
-7. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-8. **[colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
+1. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful.
+2. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+3. **[calcom /cal.diy](https://github.com/calcom/cal.diy)** — Scheduling infrastructure for absolutely everyone.
+4. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+5. **[Anil-matcha /Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** — Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+6. **[BigBodyCobain /Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+7. **[tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)** — The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+8. **[NirDiamant /agents-towards-production](https://github.com/NirDiamant/agents-towards-production)** — End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
+9. **[dograh-hq /dograh](https://github.com/dograh-hq/dograh)** — Open Source Voice Agent Platform
+10. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 <!-- TRENDING-END -->
+
 
 
 
