@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-05-26 15:31 IST
+**Updated:** 2026-05-27 15:28 IST
 
 1. **[Lum1104 /Understand-Anything](https://github.com/Lum1104/Understand-Anything)** — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-2. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+2. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 3. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
-4. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+4. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 5. **[mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-6. **[colbymchenry /codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-7. **[manaflow-ai /cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-8. **[multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-9. **[Fincept-Corporation /FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** — FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-10. **[paperless-ngx /paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
+6. **[hardikpandya /stop-slop](https://github.com/hardikpandya/stop-slop)** — A skill file for removing AI tells from prose
+7. **[Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)** — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+8. **[DigitalPlatDev /FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)** — DigitalPlat FreeDomain: Free Domain For Everyone
+9. **[jellyfin /jellyfin](https://github.com/jellyfin/jellyfin)** — The Free Software Media System - Server Backend & API
+10. **[Axorax /awesome-free-apps](https://github.com/Axorax/awesome-free-apps)** — Curated list of the best free apps for PC and mobile
 <!-- TRENDING-END -->
+
 
 
 
