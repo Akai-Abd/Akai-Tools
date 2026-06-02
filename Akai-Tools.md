@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-01 17:10 IST
+**Updated:** 2026-06-02 16:11 IST
 
 1. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
 2. **[nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -17,6 +17,7 @@
 9. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
 10. **[revfactory /harness](https://github.com/revfactory/harness)** — A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 <!-- TRENDING-END -->
+
 
 
 
