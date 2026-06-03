@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-02 16:11 IST
+**Updated:** 2026-06-03 16:35 IST
 
-1. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
-2. **[nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-3. **[supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)** — Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-4. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-5. **[D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-6. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-7. **[p-e-w /heretic](https://github.com/p-e-w/heretic)** — Fully automatic censorship removal for language models
-8. **[EveryInc /compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** — Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-9. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-10. **[revfactory /harness](https://github.com/revfactory/harness)** — A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+1. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+2. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
+3. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+4. **[D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+5. **[nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+6. **[reconurge /flowsint](https://github.com/reconurge/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+7. **[OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+8. **[stefan-jansen /machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)** — Code for Machine Learning for Algorithmic Trading, 2nd edition.
+9. **[jamwithai /production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** — No description provided
+10. **[supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)** — Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 <!-- TRENDING-END -->
+
 
 
 
