@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-03 16:35 IST
+**Updated:** 2026-06-04 15:29 IST
 
 1. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-2. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
-3. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-4. **[D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-5. **[nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-6. **[reconurge /flowsint](https://github.com/reconurge/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
-7. **[OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-8. **[stefan-jansen /machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)** — Code for Machine Learning for Algorithmic Trading, 2nd edition.
-9. **[jamwithai /production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** — No description provided
-10. **[supermemoryai /supermemory](https://github.com/supermemoryai/supermemory)** — Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+2. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+3. **[aquasecurity /trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+4. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+5. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
+6. **[nesquena /hermes-webui](https://github.com/nesquena/hermes-webui)** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+7. **[D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+8. **[opendataloader-project /opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+9. **[odoo /odoo](https://github.com/odoo/odoo)** — Odoo. Open Source Apps To Grow Your Business.
+10. **[Open-LLM-VTuber /Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)** — Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 <!-- TRENDING-END -->
+
 
 
 
