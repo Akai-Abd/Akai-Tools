@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-06 14:06 IST
+**Updated:** 2026-06-07 14:47 IST
 
-1. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
-2. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-3. **[CopilotKit /CopilotKit](https://github.com/CopilotKit/CopilotKit)** — The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol
-4. **[lfnovo /open-notebook](https://github.com/lfnovo/open-notebook)** — An Open Source implementation of Notebook LM with more flexibility and features
-5. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+1. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+2. **[CopilotKit /CopilotKit](https://github.com/CopilotKit/CopilotKit)** — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+3. **[MemPalace /mempalace](https://github.com/MemPalace/mempalace)** — The best-benchmarked open-source AI memory system. And it's free.
+4. **[danielmiessler /Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** — Agentic AI Infrastructure for magnifying HUMAN capabilities.
+5. **[openai /plugins](https://github.com/openai/plugins)** — OpenAI Plugins
 6. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-7. **[NVIDIA /cosmos](https://github.com/NVIDIA/cosmos)** — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
-8. **[666ghj /MiroFish](https://github.com/666ghj/MiroFish)** — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-9. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-10. **[PaddlePaddle /PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+7. **[sveltejs /svelte](https://github.com/sveltejs/svelte)** — web development for the rest of us
+8. **[nginx /nginx](https://github.com/nginx/nginx)** — The official NGINX Open Source repository.
+9. **[aquasecurity /trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+10. **[golang /go](https://github.com/golang/go)** — The Go programming language
 <!-- TRENDING-END -->
+
 
 
 
