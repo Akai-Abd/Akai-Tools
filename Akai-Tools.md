@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-08 16:31 IST
+**Updated:** 2026-06-09 15:21 IST
 
 1. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 2. **[RyanCodrai /turbovec](https://github.com/RyanCodrai/turbovec)** — A vector index built on TurboQuant, written in Rust with Python bindings
@@ -17,6 +17,7 @@
 9. **[openai /plugins](https://github.com/openai/plugins)** — OpenAI Plugins
 10. **[Andyyyy64 /whichllm](https://github.com/Andyyyy64/whichllm)** — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 <!-- TRENDING-END -->
+
 
 
 
