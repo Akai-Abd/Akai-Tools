@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-10 15:37 IST
+**Updated:** 2026-06-11 16:11 IST
 
-1. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-2. **[RyanCodrai /turbovec](https://github.com/RyanCodrai/turbovec)** — A vector index built on TurboQuant, written in Rust with Python bindings
-3. **[roboflow /supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
-4. **[opencv /opencv](https://github.com/opencv/opencv)** — Open Source Computer Vision Library
-5. **[refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
-6. **[aaif-goose /goose](https://github.com/aaif-goose/goose)** — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-7. **[Andyyyy64 /whichllm](https://github.com/Andyyyy64/whichllm)** — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
-8. **[TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** — 所有小初高、大学PDF教材。
-9. **[x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-10. **[yikart /AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn!
+1. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+2. **[phuryn /pm-skills](https://github.com/phuryn/pm-skills)** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+3. **[refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
+4. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+5. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+6. **[x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+8. **[masterking32 /MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)** — Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+9. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+10. **[maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)** — open-source healthcare ai
 <!-- TRENDING-END -->
+
 
 
 
