@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-12 15:48 IST
+**Updated:** 2026-06-13 14:50 IST
 
-1. **[apple /container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-3. **[maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)** — open-source healthcare ai
-4. **[phuryn /pm-skills](https://github.com/phuryn/pm-skills)** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-5. **[NVIDIA /SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-6. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-7. **[x1xhlol /system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-8. **[refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
-9. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-10. **[restic /restic](https://github.com/restic/restic)** — Fast, secure, efficient backup program
+1. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+2. **[music-assistant /server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+3. **[mattermost /mattermost](https://github.com/mattermost/mattermost)** — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+4. **[apple /container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+5. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
+6. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+7. **[refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
+8. **[maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)** — open-source healthcare ai
+9. **[LMCache /LMCache](https://github.com/LMCache/LMCache)** — LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+10. **[phuryn /pm-skills](https://github.com/phuryn/pm-skills)** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 <!-- TRENDING-END -->
+
 
 
 
