@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-13 14:50 IST
+**Updated:** 2026-06-14 15:09 IST
 
-1. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-2. **[music-assistant /server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-3. **[mattermost /mattermost](https://github.com/mattermost/mattermost)** — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-4. **[apple /container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-5. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
-6. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-7. **[refactoringhq /tolaria](https://github.com/refactoringhq/tolaria)** — Desktop app to manage markdown knowledge bases
-8. **[maziyarpanahi /openmed](https://github.com/maziyarpanahi/openmed)** — open-source healthcare ai
-9. **[LMCache /LMCache](https://github.com/LMCache/LMCache)** — LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-10. **[phuryn /pm-skills](https://github.com/phuryn/pm-skills)** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+1. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
+2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+3. **[chatwoot /chatwoot](https://github.com/chatwoot/chatwoot)** — Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+5. **[apple /container](https://github.com/apple/container)** — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+6. **[music-assistant /server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+7. **[kenn-io /agentsview](https://github.com/kenn-io/agentsview)** — Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
+8. **[LMCache /LMCache](https://github.com/LMCache/LMCache)** — LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
+9. **[microsoft /PowerToys](https://github.com/microsoft/PowerToys)** — Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+10. **[andrewyng /aisuite](https://github.com/andrewyng/aisuite)** — Simple, unified interface to multiple Generative AI providers
 <!-- TRENDING-END -->
+
 
 
 
