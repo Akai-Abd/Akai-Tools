@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-15 17:51 IST
+**Updated:** 2026-06-16 16:46 IST
 
 1. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
 2. **[teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)** — A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
@@ -17,6 +17,7 @@
 9. **[jwasham /coding-interview-university](https://github.com/jwasham/coding-interview-university)** — A complete computer science study plan to become a software engineer.
 10. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
 <!-- TRENDING-END -->
+
 
 
 
