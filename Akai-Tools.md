@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-16 16:46 IST
+**Updated:** 2026-06-17 16:31 IST
 
-1. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
-2. **[teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)** — A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
-3. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-4. **[meshery /meshery](https://github.com/meshery/meshery)** — Meshery, the cloud native manager
-5. **[chatwoot /chatwoot](https://github.com/chatwoot/chatwoot)** — Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-6. **[krahets /hello-algo](https://github.com/krahets/hello-algo)** — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-7. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-8. **[trycua /cua](https://github.com/trycua/cua)** — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-9. **[jwasham /coding-interview-university](https://github.com/jwasham/coding-interview-university)** — A complete computer science study plan to become a software engineer.
-10. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+1. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+2. **[swc-project /swc](https://github.com/swc-project/swc)** — Rust-based platform for the Web
+3. **[teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)** — A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+4. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
+5. **[puppeteer /puppeteer](https://github.com/puppeteer/puppeteer)** — JavaScript API for Chrome and Firefox
+6. **[meshery /meshery](https://github.com/meshery/meshery)** — Meshery, the cloud native manager
+7. **[cypress-io /cypress](https://github.com/cypress-io/cypress)** — Fast, easy and reliable testing for anything that runs in a browser.
+8. **[music-assistant /server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
+9. **[Universal-Debloater-Alliance /universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+10. **[OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 <!-- TRENDING-END -->
+
 
 
 
