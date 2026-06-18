@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-17 16:31 IST
+**Updated:** 2026-06-18 15:54 IST
 
-1. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-2. **[swc-project /swc](https://github.com/swc-project/swc)** — Rust-based platform for the Web
-3. **[teslamate-org /teslamate](https://github.com/teslamate-org/teslamate)** — A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
-4. **[iptv-org /iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world
-5. **[puppeteer /puppeteer](https://github.com/puppeteer/puppeteer)** — JavaScript API for Chrome and Firefox
-6. **[meshery /meshery](https://github.com/meshery/meshery)** — Meshery, the cloud native manager
-7. **[cypress-io /cypress](https://github.com/cypress-io/cypress)** — Fast, easy and reliable testing for anything that runs in a browser.
-8. **[music-assistant /server](https://github.com/music-assistant/server)** — Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-9. **[Universal-Debloater-Alliance /universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-10. **[OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+1. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+2. **[n0-computer /iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. Modular networking stack in Rust.
+3. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+4. **[meshery /meshery](https://github.com/meshery/meshery)** — Meshery, the cloud native manager
+5. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+6. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+7. **[RocketChat /Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — The Secure CommsOS™ for mission-critical operations
+8. **[continuedev /continue](https://github.com/continuedev/continue)** — open-source coding agent
+9. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design tool for design and code collaboration
+10. **[krahets /hello-algo](https://github.com/krahets/hello-algo)** — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 <!-- TRENDING-END -->
+
 
 
 
