@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-18 15:54 IST
+**Updated:** 2026-06-19 16:11 IST
 
-1. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+1. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 2. **[n0-computer /iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. Modular networking stack in Rust.
-3. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-4. **[meshery /meshery](https://github.com/meshery/meshery)** — Meshery, the cloud native manager
-5. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-6. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-7. **[RocketChat /Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — The Secure CommsOS™ for mission-critical operations
-8. **[continuedev /continue](https://github.com/continuedev/continue)** — open-source coding agent
-9. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design tool for design and code collaboration
-10. **[krahets /hello-algo](https://github.com/krahets/hello-algo)** — 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+3. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+5. **[zai-org /GLM-5](https://github.com/zai-org/GLM-5)** — GLM-5: From Vibe Coding to Agentic Engineering
+6. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+7. **[alibaba /zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
+8. **[withastro /flue](https://github.com/withastro/flue)** — The sandbox agent framework.
+9. **[Kilo-Org /kilocode](https://github.com/Kilo-Org/kilocode)** — Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+10. **[makeplane /plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 <!-- TRENDING-END -->
+
 
 
 
