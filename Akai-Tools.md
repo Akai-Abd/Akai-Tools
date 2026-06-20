@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-19 16:11 IST
+**Updated:** 2026-06-20 14:50 IST
 
-1. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-2. **[n0-computer /iroh](https://github.com/n0-computer/iroh)** — IP addresses break, dial keys instead. Modular networking stack in Rust.
-3. **[freeCodeCamp /freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-5. **[zai-org /GLM-5](https://github.com/zai-org/GLM-5)** — GLM-5: From Vibe Coding to Agentic Engineering
-6. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-7. **[alibaba /zvec](https://github.com/alibaba/zvec)** — A lightweight, lightning-fast, in-process vector database
-8. **[withastro /flue](https://github.com/withastro/flue)** — The sandbox agent framework.
-9. **[Kilo-Org /kilocode](https://github.com/Kilo-Org/kilocode)** — Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-10. **[makeplane /plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+1. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+2. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+3. **[palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI
+4. **[koala73 /worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+5. **[aishwaryanr /awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)** — A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+6. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agent-native applications.
+7. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+8. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+9. **[zai-org /GLM-5](https://github.com/zai-org/GLM-5)** — GLM-5: From Vibe Coding to Agentic Engineering
+10. **[withastro /flue](https://github.com/withastro/flue)** — The sandbox agent framework.
 <!-- TRENDING-END -->
+
 
 
 
