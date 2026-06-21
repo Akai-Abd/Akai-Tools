@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-20 14:50 IST
+**Updated:** 2026-06-21 15:24 IST
 
-1. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-2. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-3. **[palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI
-4. **[koala73 /worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-5. **[aishwaryanr /awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)** — A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-6. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agent-native applications.
-7. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-8. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-9. **[zai-org /GLM-5](https://github.com/zai-org/GLM-5)** — GLM-5: From Vibe Coding to Agentic Engineering
-10. **[withastro /flue](https://github.com/withastro/flue)** — The sandbox agent framework.
+1. **[palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI
+2. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design tool for design and code collaboration
+3. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+4. **[tursodatabase /turso](https://github.com/tursodatabase/turso)** — Turso is an in-process SQL database, compatible with SQLite.
+5. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+6. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+7. **[twentyhq /twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
+8. **[Kong /insomnia](https://github.com/Kong/insomnia)** — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+9. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+10. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
 <!-- TRENDING-END -->
+
 
 
 
