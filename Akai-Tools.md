@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-21 15:24 IST
+**Updated:** 2026-06-22 17:39 IST
 
-1. **[palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI
-2. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design tool for design and code collaboration
-3. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-4. **[tursodatabase /turso](https://github.com/tursodatabase/turso)** — Turso is an in-process SQL database, compatible with SQLite.
-5. **[DeusData /codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-6. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-7. **[twentyhq /twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
-8. **[Kong /insomnia](https://github.com/Kong/insomnia)** — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-9. **[chopratejas /headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-10. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
+1. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+2. **[palmier-io /palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI
+3. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
+4. **[mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+5. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design tool for design and code collaboration
+6. **[Stirling-Tools /Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** — #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+7. **[garrytan /gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+8. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+9. **[tursodatabase /turso](https://github.com/tursodatabase/turso)** — Turso is an in-process SQL database, compatible with SQLite.
+10. **[bytedance /deer-flow](https://github.com/bytedance/deer-flow)** — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 <!-- TRENDING-END -->
+
 
 
 
