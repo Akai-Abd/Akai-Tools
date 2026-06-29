@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-28 14:26 IST
+**Updated:** 2026-06-29 16:35 IST
 
 1. **[simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)** — SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-2. **[xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)** — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-3. **[commaai /openpilot](https://github.com/commaai/openpilot)** — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-4. **[IceWhaleTech /CasaOS](https://github.com/IceWhaleTech/CasaOS)** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-5. **[ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)** — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-6. **[google-labs-code /design.md](https://github.com/google-labs-code/design.md)** — A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-7. **[microsoft /PowerToys](https://github.com/microsoft/PowerToys)** — Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-8. **[hugohe3 /ppt-master](https://github.com/hugohe3/ppt-master)** — AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
-9. **[JCodesMore /ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** — Clone any website with one command using AI coding agents
-10. **[garrytan /gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+2. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+3. **[cupy /cupy](https://github.com/cupy/cupy)** — NumPy & SciPy for GPU
+4. **[altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)** — FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
+5. **[soxoj /maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+6. **[commaai /openpilot](https://github.com/commaai/openpilot)** — openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+7. **[ripienaar /free-for-dev](https://github.com/ripienaar/free-for-dev)** — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+8. **[logto-io /logto](https://github.com/logto-io/logto)** — 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+9. **[xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)** — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+10. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
 <!-- TRENDING-END -->
+
 
 
 
