@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-06-29 16:35 IST
+**Updated:** 2026-06-30 15:11 IST
 
 1. **[simplex-chat /simplex-chat](https://github.com/simplex-chat/simplex-chat)** — SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 2. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
@@ -17,6 +17,7 @@
 9. **[xbtlin /ai-berkshire](https://github.com/xbtlin/ai-berkshire)** — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
 10. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
 <!-- TRENDING-END -->
+
 
 
 
