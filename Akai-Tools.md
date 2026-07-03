@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-02 14:46 IST
+**Updated:** 2026-07-03 14:52 IST
 
-1. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-2. **[usestrix /strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-3. **[HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
+1. **[usestrix /strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+2. **[JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+3. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 4. **[hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** — A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
-5. **[facebook /astryx](https://github.com/facebook/astryx)** — An open source design system that's fully customizable and agent ready
-6. **[diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-7. **[allenai /olmocr](https://github.com/allenai/olmocr)** — Toolkit for linearizing PDFs for LLM datasets/training
-8. **[logto-io /logto](https://github.com/logto-io/logto)** — 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-9. **[togatoga /karukan](https://github.com/togatoga/karukan)** — Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine
-10. **[Mebus /cupp](https://github.com/Mebus/cupp)** — Common User Passwords Profiler (CUPP)
+5. **[santifer /career-ops](https://github.com/santifer/career-ops)** — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+6. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+7. **[ChromeDevTools /chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents
+8. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
+9. **[actions /checkout](https://github.com/actions/checkout)** — Action for checking out a repo
+10. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 <!-- TRENDING-END -->
+
 
 
 
