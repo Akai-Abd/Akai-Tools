@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-06 16:12 IST
+**Updated:** 2026-07-07 15:17 IST
 
-1. **[Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
-2. **[openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** — Use Codex from Claude Code to review code or delegate tasks.
-3. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-4. **[Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)** — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-5. **[alirezarezvani /claude-skills](https://github.com/alirezarezvani/claude-skills)** — 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
-6. **[rommapp /romm](https://github.com/rommapp/romm)** — A beautiful, powerful, self-hosted rom manager and player.
-7. **[ogulcancelik /herdr](https://github.com/ogulcancelik/herdr)** — agent multiplexer that lives in your terminal.
-8. **[alibaba /page-agent](https://github.com/alibaba/page-agent)** — JavaScript in-page GUI agent. Control web interfaces with natural language.
-9. **[harvard-edge /cs249r_book](https://github.com/harvard-edge/cs249r_book)** — Machine Learning Systems
-10. **[usestrix /strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+1. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+3. **[Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
+4. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+5. **[Leonxlnx /taste-skill](https://github.com/Leonxlnx/taste-skill)** — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+6. **[alirezarezvani /claude-skills](https://github.com/alirezarezvani/claude-skills)** — 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+7. **[openai /codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** — Use Codex from Claude Code to review code or delegate tasks.
+8. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+9. **[ogulcancelik /herdr](https://github.com/ogulcancelik/herdr)** — agent multiplexer that lives in your terminal.
+10. **[bradautomates /claude-video](https://github.com/bradautomates/claude-video)** — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 <!-- TRENDING-END -->
+
 
 
 
