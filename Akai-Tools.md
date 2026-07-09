@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-08 14:03 IST
+**Updated:** 2026-07-09 15:14 IST
 
 1. **[MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
-2. **[Zackriya-Solutions /meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
-3. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-4. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-5. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
-6. **[TencentCloud /CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-7. **[AhmadIbrahiim /Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader)** — 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js
-8. **[steipete /CodexBar](https://github.com/steipete/CodexBar)** — Show usage stats for OpenAI Codex and Claude Code, without having to login.
-9. **[dotnet /skills](https://github.com/dotnet/skills)** — Repository for skills to assist AI coding agents with .NET and C#
-10. **[iOfficeAI /OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+3. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+4. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+5. **[prisma /prisma](https://github.com/prisma/prisma)** — Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+6. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+7. **[argoproj /argo-cd](https://github.com/argoproj/argo-cd)** — Declarative Continuous Deployment for Kubernetes
+8. **[iOfficeAI /OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+9. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+10. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 <!-- TRENDING-END -->
+
 
 
 
