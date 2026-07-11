@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-10 15:09 IST
+**Updated:** 2026-07-11 13:30 IST
 
-1. **[SmartlyDressedGames /U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)** — Source code for Unturned, a free open-world zombie survival sandbox game.
-2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-3. **[VoltAgent /awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-4. **[iOfficeAI /OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-5. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-6. **[anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-7. **[vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-8. **[unclecode /crawl4ai](https://github.com/unclecode/crawl4ai)** — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN
-9. **[imthenachoman /How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)** — An evolving how-to guide for securing a Linux server.
-10. **[huxingyi /autoremesher](https://github.com/huxingyi/autoremesher)** — Automatic quad remeshing tool
+1. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+2. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+3. **[abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)** — Abseil Common Libraries (C++)
+4. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+5. **[jbeder /yaml-cpp](https://github.com/jbeder/yaml-cpp)** — A YAML parser and emitter in C++
+6. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+8. **[microsoft /TypeScript](https://github.com/microsoft/TypeScript)** — TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+9. **[catchorg /Catch2](https://github.com/catchorg/Catch2)** — A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+10. **[chriskohlhoff /asio](https://github.com/chriskohlhoff/asio)** — Asio C++ Library
 <!-- TRENDING-END -->
+
 
 
 
