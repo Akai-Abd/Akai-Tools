@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-11 13:30 IST
+**Updated:** 2026-07-12 13:51 IST
 
-1. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-2. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-3. **[abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)** — Abseil Common Libraries (C++)
-4. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-5. **[jbeder /yaml-cpp](https://github.com/jbeder/yaml-cpp)** — A YAML parser and emitter in C++
-6. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-8. **[microsoft /TypeScript](https://github.com/microsoft/TypeScript)** — TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-9. **[catchorg /Catch2](https://github.com/catchorg/Catch2)** — A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-10. **[chriskohlhoff /asio](https://github.com/chriskohlhoff/asio)** — Asio C++ Library
+1. **[catchorg /Catch2](https://github.com/catchorg/Catch2)** — A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+2. **[abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)** — Abseil Common Libraries (C++)
+3. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
+4. **[google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)** — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+5. **[hashicorp /terraform](https://github.com/hashicorp/terraform)** — Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+6. **[zeux /meshoptimizer](https://github.com/zeux/meshoptimizer)** — Mesh optimization library that makes meshes smaller and faster to render
+7. **[openai /plugins](https://github.com/openai/plugins)** — OpenAI Plugins
+8. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+9. **[chriskohlhoff /asio](https://github.com/chriskohlhoff/asio)** — Asio C++ Library
+10. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 <!-- TRENDING-END -->
+
 
 
 
