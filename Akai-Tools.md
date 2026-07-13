@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-12 13:51 IST
+**Updated:** 2026-07-13 15:02 IST
 
-1. **[catchorg /Catch2](https://github.com/catchorg/Catch2)** — A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-2. **[abseil /abseil-cpp](https://github.com/abseil/abseil-cpp)** — Abseil Common Libraries (C++)
-3. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
-4. **[google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)** — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-5. **[hashicorp /terraform](https://github.com/hashicorp/terraform)** — Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-6. **[zeux /meshoptimizer](https://github.com/zeux/meshoptimizer)** — Mesh optimization library that makes meshes smaller and faster to render
-7. **[openai /plugins](https://github.com/openai/plugins)** — OpenAI Plugins
-8. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-9. **[chriskohlhoff /asio](https://github.com/chriskohlhoff/asio)** — Asio C++ Library
-10. **[oven-sh /bun](https://github.com/oven-sh/bun)** — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+1. **[Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+2. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+3. **[HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
+4. **[PrefectHQ /prefect](https://github.com/PrefectHQ/prefect)** — Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+5. **[Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+6. **[anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+7. **[home-assistant /core](https://github.com/home-assistant/core)** — 🏡 Open source home automation that puts local control and privacy first.
+8. **[Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+9. **[ColeMurray /background-agents](https://github.com/ColeMurray/background-agents)** — An open-source background agents coding system
+10. **[k1tbyte /Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)** — Advanced UX and interoperability extension for Wand (WeMod) app
 <!-- TRENDING-END -->
+
 
 
 
