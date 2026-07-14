@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-13 15:02 IST
+**Updated:** 2026-07-14 13:40 IST
 
-1. **[Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-2. **[wonderwhy-er /DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+1. **[OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+2. **[Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 3. **[HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
-4. **[PrefectHQ /prefect](https://github.com/PrefectHQ/prefect)** — Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+4. **[moeru-ai /airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 5. **[Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-6. **[anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-7. **[home-assistant /core](https://github.com/home-assistant/core)** — 🏡 Open source home automation that puts local control and privacy first.
-8. **[Crosstalk-Solutions /project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-9. **[ColeMurray /background-agents](https://github.com/ColeMurray/background-agents)** — An open-source background agents coding system
-10. **[k1tbyte /Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)** — Advanced UX and interoperability extension for Wand (WeMod) app
+6. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+7. **[Raphire /Win11Debloat](https://github.com/Raphire/Win11Debloat)** — A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+8. **[Graphify-Labs /graphify](https://github.com/Graphify-Labs/graphify)** — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+9. **[hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+10. **[github /spec-kit](https://github.com/github/spec-kit)** — 💫 Toolkit to help you get started with Spec-Driven Development
 <!-- TRENDING-END -->
+
 
 
 
