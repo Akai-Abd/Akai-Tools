@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-15 13:48 IST
+**Updated:** 2026-07-16 13:48 IST
 
-1. **[Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-3. **[OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
-4. **[virattt /ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team
-5. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+1. **[OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+2. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+3. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
+4. **[moeru-ai /airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+5. **[Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 6. **[HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
-7. **[Raphire /Win11Debloat](https://github.com/Raphire/Win11Debloat)** — A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-8. **[hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
-9. **[penpot /penpot](https://github.com/penpot/penpot)** — Penpot: The open-source design platform for Product teams that need scalable collaboration.
-10. **[AIEraDev /Clypra](https://github.com/AIEraDev/Clypra)** — A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
+7. **[openinterpreter /openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for low-cost models
+8. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+9. **[HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** — Become a cracked AI/ML Research Engineer
+10. **[injaneity /pi-computer-use](https://github.com/injaneity/pi-computer-use)** — Let Pi control your apps on MacOS & Windows
 <!-- TRENDING-END -->
+
 
 
 
