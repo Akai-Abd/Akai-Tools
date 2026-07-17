@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-16 13:48 IST
+**Updated:** 2026-07-17 13:43 IST
 
-1. **[OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+1. **[apache /ossie](https://github.com/apache/ossie)** — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
 2. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-3. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory.
-4. **[moeru-ai /airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-5. **[Dicklesworthstone /destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-6. **[HKUDS /Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent"
-7. **[openinterpreter /openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for low-cost models
-8. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-9. **[HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** — Become a cracked AI/ML Research Engineer
-10. **[injaneity /pi-computer-use](https://github.com/injaneity/pi-computer-use)** — Let Pi control your apps on MacOS & Windows
+3. **[OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+4. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+5. **[openinterpreter /openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for open models like Kimi K3
+6. **[PrismML-Eng /Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)** — Bonsai Demo
+7. **[hasaneyldrm /exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+8. **[Shubhamsaboo /awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+9. **[lobehub /lobehub](https://github.com/lobehub/lobehub)** — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+10. **[YimMenu /YimMenuV2](https://github.com/YimMenu/YimMenuV2)** — Experimental menu for GTA 5: Enhanced
 <!-- TRENDING-END -->
+
 
 
 
