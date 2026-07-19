@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-18 13:26 IST
+**Updated:** 2026-07-19 13:53 IST
 
-1. **[codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
-2. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-3. **[HenryNdubuaku /maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** — Become a cracked AI/ML Research Engineer
-4. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-5. **[github /copilot-sdk](https://github.com/github/copilot-sdk)** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-6. **[anthropics /cwc-workshops](https://github.com/anthropics/cwc-workshops)** — No description provided
-7. **[PrismML-Eng /Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)** — Bonsai Demo
-8. **[protocolbuffers /protobuf](https://github.com/protocolbuffers/protobuf)** — Protocol Buffers - Google's data interchange format
-9. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-10. **[docusealco /docuseal](https://github.com/docusealco/docuseal)** — Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+1. **[Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)** — A feed-forward 3D foundation model for reconstructing scenes from streaming data
+2. **[apache /ossie](https://github.com/apache/ossie)** — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+3. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+4. **[ibelick /ui-skills](https://github.com/ibelick/ui-skills)** — Skills for Design Engineers
+5. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+6. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+7. **[elder-plinius /G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** — LIBERATED AI CHAT
+8. **[lyogavin /airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
+9. **[KnockOutEZ /wigolo](https://github.com/KnockOutEZ/wigolo)** — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+10. **[codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
 <!-- TRENDING-END -->
+
 
 
 
