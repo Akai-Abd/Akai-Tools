@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-19 13:53 IST
+**Updated:** 2026-07-20 14:49 IST
 
-1. **[Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)** — A feed-forward 3D foundation model for reconstructing scenes from streaming data
-2. **[apache /ossie](https://github.com/apache/ossie)** — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
-3. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-4. **[ibelick /ui-skills](https://github.com/ibelick/ui-skills)** — Skills for Design Engineers
-5. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
-6. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-7. **[elder-plinius /G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** — LIBERATED AI CHAT
-8. **[lyogavin /airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
-9. **[KnockOutEZ /wigolo](https://github.com/KnockOutEZ/wigolo)** — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
-10. **[codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
+1. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+2. **[kvcache-ai /ktransformers](https://github.com/kvcache-ai/ktransformers)** — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
+3. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+4. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
+5. **[KnockOutEZ /wigolo](https://github.com/KnockOutEZ/wigolo)** — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
+6. **[andrewrabert /jellium-desktop](https://github.com/andrewrabert/jellium-desktop)** — An unofficial desktop client for Jellyfin
+7. **[github /copilot-sdk](https://github.com/github/copilot-sdk)** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+8. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+9. **[microsoft /terminal](https://github.com/microsoft/terminal)** — The new Windows Terminal and the original Windows console host, all in the same place!
+10. **[AstrBotDevs /AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 <!-- TRENDING-END -->
+
 
 
 
