@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-20 14:49 IST
+**Updated:** 2026-07-21 14:02 IST
 
-1. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-2. **[kvcache-ai /ktransformers](https://github.com/kvcache-ai/ktransformers)** — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
-3. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
-4. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
-5. **[KnockOutEZ /wigolo](https://github.com/KnockOutEZ/wigolo)** — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
-6. **[andrewrabert /jellium-desktop](https://github.com/andrewrabert/jellium-desktop)** — An unofficial desktop client for Jellyfin
-7. **[github /copilot-sdk](https://github.com/github/copilot-sdk)** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-8. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-9. **[microsoft /terminal](https://github.com/microsoft/terminal)** — The new Windows Terminal and the original Windows console host, all in the same place!
-10. **[AstrBotDevs /AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+1. **[bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+2. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+3. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — The most intelligent agent harness for code
+4. **[diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
+5. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+6. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+7. **[kvcache-ai /ktransformers](https://github.com/kvcache-ai/ktransformers)** — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
+8. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
+9. **[topoteretes /cognee](https://github.com/topoteretes/cognee)** — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+10. **[Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)** — A feed-forward 3D foundation model for reconstructing scenes from streaming data
 <!-- TRENDING-END -->
+
 
 
 
