@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-21 14:02 IST
+**Updated:** 2026-07-22 14:02 IST
 
-1. **[bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-2. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-3. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — The most intelligent agent harness for code
-4. **[diegosouzapw /OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
-5. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
-6. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-7. **[kvcache-ai /ktransformers](https://github.com/kvcache-ai/ktransformers)** — A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
-8. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
-9. **[topoteretes /cognee](https://github.com/topoteretes/cognee)** — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-10. **[Robbyant /lingbot-map](https://github.com/Robbyant/lingbot-map)** — A feed-forward 3D foundation model for reconstructing scenes from streaming data
+1. **[koala73 /worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+2. **[bojieli /ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+3. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+4. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+5. **[earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)** — A collection of agent skills for CAD, robotics and hardware design
+6. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — The most intelligent agent harness for code
+7. **[oblien /openship](https://github.com/oblien/openship)** — Self-hosted deployment platform
+8. **[AstrBotDevs /AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+9. **[every-app /open-seo](https://github.com/every-app/open-seo)** — Open source alternative to Semrush and Ahrefs
+10. **[tradesdontlie /tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)** — AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 <!-- TRENDING-END -->
+
 
 
 
