@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-25 13:39 IST
+**Updated:** 2026-07-26 13:59 IST
 
 1. **[block /buzz](https://github.com/block/buzz)** — A hive mind communication platform
-2. **[koala73 /worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-3. **[ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-4. **[Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)** — Empowering everyone to host fast and efficient Minecraft servers.
-5. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
+2. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+3. **[citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+4. **[ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+5. **[anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 6. **[Automattic /harper](https://github.com/Automattic/harper)** — Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-7. **[likec4 /likec4](https://github.com/likec4/likec4)** — Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
-8. **[citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-9. **[yorukot /superfile](https://github.com/yorukot/superfile)** — Pretty fancy and modern terminal file manager
-10. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+7. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
+8. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+9. **[Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)** — Empowering everyone to host fast and efficient Minecraft servers.
+10. **[permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)** — bluetooth mesh chat, IRC vibes
 <!-- TRENDING-END -->
+
 
 
 
