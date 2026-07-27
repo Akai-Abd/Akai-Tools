@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-26 13:59 IST
+**Updated:** 2026-07-27 15:26 IST
 
-1. **[block /buzz](https://github.com/block/buzz)** — A hive mind communication platform
-2. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-3. **[citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-4. **[ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-5. **[anthropics /claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-6. **[Automattic /harper](https://github.com/Automattic/harper)** — Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-7. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
-8. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-9. **[Pumpkin-MC /Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)** — Empowering everyone to host fast and efficient Minecraft servers.
-10. **[permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)** — bluetooth mesh chat, IRC vibes
+1. **[permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)** — bluetooth mesh chat, IRC vibes
+2. **[citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+3. **[block /buzz](https://github.com/block/buzz)** — A hive mind communication platform
+4. **[pingdotgg /t3code](https://github.com/pingdotgg/t3code)** — No description provided
+5. **[CoreBunch /Instatic](https://github.com/CoreBunch/Instatic)** — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.
+6. **[yorukot /superfile](https://github.com/yorukot/superfile)** — Pretty fancy and modern terminal file manager
+7. **[nodejs /node](https://github.com/nodejs/node)** — Node.js JavaScript runtime ✨🐢🚀✨
+8. **[OtterMind /Chat2DB](https://github.com/OtterMind/Chat2DB)** — 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+9. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
+10. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
 <!-- TRENDING-END -->
+
 
 
 
