@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-28 14:08 IST
+**Updated:** 2026-07-29 14:14 IST
 
-1. **[permissionlesstech /bitchat](https://github.com/permissionlesstech/bitchat)** — bluetooth mesh chat, IRC vibes
-2. **[amnezia-vpn /amnezia-client](https://github.com/amnezia-vpn/amnezia-client)** — Amnezia VPN Client (Desktop+Mobile)
+1. **[pascalorg /editor](https://github.com/pascalorg/editor)** — Create and share 3D architectural projects.
+2. **[jenkinsci /jenkins](https://github.com/jenkinsci/jenkins)** — Jenkins automation server
 3. **[moeru-ai /airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-4. **[opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)** — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-5. **[yorukot /superfile](https://github.com/yorukot/superfile)** — Pretty fancy and modern terminal file manager
-6. **[NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-7. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-8. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
-9. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-10. **[jenkinsci /jenkins](https://github.com/jenkinsci/jenkins)** — Jenkins automation server
+4. **[andrewyng /aisuite](https://github.com/andrewyng/aisuite)** — Simple, unified interface to multiple Generative AI providers
+5. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+6. **[huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models
+7. **[virgiliojr94 /book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+8. **[opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)** — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+9. **[paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** — A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+10. **[microsoft /agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 <!-- TRENDING-END -->
+
 
 
 
