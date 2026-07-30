@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-07-29 14:14 IST
+**Updated:** 2026-07-30 14:00 IST
 
-1. **[pascalorg /editor](https://github.com/pascalorg/editor)** — Create and share 3D architectural projects.
-2. **[jenkinsci /jenkins](https://github.com/jenkinsci/jenkins)** — Jenkins automation server
-3. **[moeru-ai /airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-4. **[andrewyng /aisuite](https://github.com/andrewyng/aisuite)** — Simple, unified interface to multiple Generative AI providers
-5. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-6. **[huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models
-7. **[virgiliojr94 /book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-8. **[opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)** — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-9. **[paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** — A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-10. **[microsoft /agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+1. **[opengeos /GeoLibre](https://github.com/opengeos/GeoLibre)** — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
+2. **[moeru-ai /airi](https://github.com/moeru-ai/airi)** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+3. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+4. **[huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models
+5. **[1jehuang /jcode](https://github.com/1jehuang/jcode)** — The most RAM efficient harness
+6. **[grokability /snipe-it](https://github.com/grokability/snipe-it)** — A free open source IT asset/license management system
+7. **[deepfakes /faceswap](https://github.com/deepfakes/faceswap)** — Deepfakes Software For All
+8. **[microsoft /VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI
+9. **[different-ai /openwork](https://github.com/different-ai/openwork)** — The open-source alternative to Claude Cowork (powered by opencode)
+10. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 <!-- TRENDING-END -->
+
 
 
 
