@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-02 13:57 IST
+**Updated:** 2026-08-03 15:20 IST
 
 1. **[microsoft /AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — 12 Weeks, 24 Lessons, AI for All!
-2. **[paperswithbacktest /awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** — A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-3. **[usekaneo /kaneo](https://github.com/usekaneo/kaneo)** — 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
-4. **[zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-5. **[microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** — 21 Lessons, Get Started Building with Generative AI
-6. **[github /copilot-sdk](https://github.com/github/copilot-sdk)** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-7. **[github /gh-stack](https://github.com/github/gh-stack)** — GitHub Stacked PRs
-8. **[huggingface /speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models
-9. **[abus-aikorea /voice-pro](https://github.com/abus-aikorea/voice-pro)** — Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
-10. **[iv-org /invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
+2. **[usekaneo /kaneo](https://github.com/usekaneo/kaneo)** — 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+3. **[lyogavin /airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
+4. **[iv-org /invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
+5. **[codecrafters-io /build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** — Master programming by recreating your favorite technologies from scratch.
+6. **[zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+7. **[different-ai /openwork](https://github.com/different-ai/openwork)** — The open-source alternative to Claude Cowork (powered by opencode)
+8. **[microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** — 21 Lessons, Get Started Building with Generative AI
+9. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+10. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 <!-- TRENDING-END -->
+
 
 
 
