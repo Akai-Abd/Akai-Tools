@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-05 14:09 IST
+**Updated:** 2026-08-06 14:10 IST
 
-1. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-2. **[zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-3. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-4. **[uber /ADR](https://github.com/uber/ADR)** — ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
-5. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-6. **[microsoft /generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** — 21 Lessons, Get Started Building with Generative AI
-7. **[cypress-io /cypress](https://github.com/cypress-io/cypress)** — Fast, easy and reliable testing for anything that runs in a browser.
-8. **[lyogavin /airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU
-9. **[webpack /webpack](https://github.com/webpack/webpack)** — A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-10. **[gabime /spdlog](https://github.com/gabime/spdlog)** — Fast C++ logging library.
+1. **[cloudflare /computer](https://github.com/cloudflare/computer)** — Give your agent a computer 👾
+2. **[huangruiteng /loopx](https://github.com/huangruiteng/loopx)** — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+3. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+4. **[donnemartin /system-design-primer](https://github.com/donnemartin/system-design-primer)** — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+5. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+6. **[esengine /DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+7. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+8. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+9. **[roboflow /supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
+10. **[vercel /next.js](https://github.com/vercel/next.js)** — The React Framework
 <!-- TRENDING-END -->
+
 
 
 
