@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-06 14:10 IST
+**Updated:** 2026-08-07 12:49 IST
 
-1. **[cloudflare /computer](https://github.com/cloudflare/computer)** — Give your agent a computer 👾
-2. **[huangruiteng /loopx](https://github.com/huangruiteng/loopx)** — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-3. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-4. **[donnemartin /system-design-primer](https://github.com/donnemartin/system-design-primer)** — Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-5. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-6. **[esengine /DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-7. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-8. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-9. **[roboflow /supervision](https://github.com/roboflow/supervision)** — We write your reusable computer vision tools. 💜
-10. **[vercel /next.js](https://github.com/vercel/next.js)** — The React Framework
+1. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+3. **[cloudflare /computer](https://github.com/cloudflare/computer)** — Give your agent a computer 👾
+4. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+5. **[goauthentik /authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+6. **[huangruiteng /loopx](https://github.com/huangruiteng/loopx)** — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+7. **[google /guava](https://github.com/google/guava)** — Google core libraries for Java
+8. **[TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** — 所有小初高、大学PDF教材。
+9. **[Significant-Gravitas /AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+10. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 <!-- TRENDING-END -->
+
 
 
 
