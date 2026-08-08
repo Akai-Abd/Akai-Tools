@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-07 12:49 IST
+**Updated:** 2026-08-08 12:27 IST
 
-1. **[TencentCloud /TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+1. **[PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** — A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
 3. **[cloudflare /computer](https://github.com/cloudflare/computer)** — Give your agent a computer 👾
 4. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-5. **[goauthentik /authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
-6. **[huangruiteng /loopx](https://github.com/huangruiteng/loopx)** — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
-7. **[google /guava](https://github.com/google/guava)** — Google core libraries for Java
-8. **[TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** — 所有小初高、大学PDF教材。
-9. **[Significant-Gravitas /AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-10. **[tirth8205 /code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+5. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+6. **[goauthentik /authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+7. **[semantica-agi /semantica](https://github.com/semantica-agi/semantica)** — Graph-Native Infrastructure for Context and Accountable AI Systems
+8. **[666ghj /MiroFish](https://github.com/666ghj/MiroFish)** — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+9. **[chenyme /grok2api](https://github.com/chenyme/grok2api)** — Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+10. **[jdx /mise](https://github.com/jdx/mise)** — dev tools, env vars, task runner
 <!-- TRENDING-END -->
+
 
 
 
