@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-09 12:30 IST
+**Updated:** 2026-08-10 13:15 IST
 
 1. **[PrimeIntellect-ai /prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** — A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-2. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-3. **[TapXWorld /ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)** — 所有小初高、大学PDF教材。
-4. **[google /skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
-5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-6. **[goauthentik /authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
-7. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-8. **[google /guava](https://github.com/google/guava)** — Google core libraries for Java
-9. **[LadybirdBrowser /ladybird](https://github.com/LadybirdBrowser/ladybird)** — Truly independent web browser
-10. **[denoland /celld](https://github.com/denoland/celld)** — self-hosted, distributed Durable Objects
+2. **[vitali87 /code-graph-rag](https://github.com/vitali87/code-graph-rag)** — The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+3. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+4. **[pranshuparmar /witr](https://github.com/pranshuparmar/witr)** — Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
+5. **[google-deepmind /weathernext](https://github.com/google-deepmind/weathernext)** — No description provided
+6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+7. **[ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+8. **[goauthentik /authentik](https://github.com/goauthentik/authentik)** — The authentication glue you need.
+9. **[google /skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
+10. **[Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 <!-- TRENDING-END -->
+
 
 
 
