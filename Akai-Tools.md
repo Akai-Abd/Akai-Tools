@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-12 13:06 IST
+**Updated:** 2026-08-13 13:07 IST
 
 1. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-2. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+2. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 3. **[semantica-agi /semantica](https://github.com/semantica-agi/semantica)** — Graph-Native Infrastructure for Context and Accountable AI Systems
-4. **[nvm-sh /nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-5. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-6. **[ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-7. **[vitali87 /code-graph-rag](https://github.com/vitali87/code-graph-rag)** — The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-8. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-9. **[3b1b /manim](https://github.com/3b1b/manim)** — Animation engine for explanatory math videos
-10. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+4. **[stablyai /orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+5. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+6. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
+7. **[NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+8. **[hugohe3 /ppt-master](https://github.com/hugohe3/ppt-master)** — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+9. **[infiniflow /ragflow](https://github.com/infiniflow/ragflow)** — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+10. **[paperclipai /paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work
 <!-- TRENDING-END -->
+
 
 
 
