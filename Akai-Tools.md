@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-13 13:07 IST
+**Updated:** 2026-08-14 12:57 IST
 
 1. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-2. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-3. **[semantica-agi /semantica](https://github.com/semantica-agi/semantica)** — Graph-Native Infrastructure for Context and Accountable AI Systems
-4. **[stablyai /orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-5. **[msitarzewski /agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-6. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
-7. **[NanmiCoder /MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-8. **[hugohe3 /ppt-master](https://github.com/hugohe3/ppt-master)** — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-9. **[infiniflow /ragflow](https://github.com/infiniflow/ragflow)** — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-10. **[paperclipai /paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work
+2. **[semantica-agi /semantica](https://github.com/semantica-agi/semantica)** — Graph-Native Infrastructure for Context and Accountable AI Systems
+3. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+4. **[cactus-compute /needle](https://github.com/cactus-compute/needle)** — 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+5. **[altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
+6. **[unslothai /unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+7. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+8. **[megadose /holehe](https://github.com/megadose/holehe)** — holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+9. **[smicallef /spiderfoot](https://github.com/smicallef/spiderfoot)** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+10. **[NVIDIA-NeMo /Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 <!-- TRENDING-END -->
+
 
 
 
