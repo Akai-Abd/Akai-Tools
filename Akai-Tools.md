@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-14 12:57 IST
+**Updated:** 2026-08-15 12:11 IST
 
 1. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-2. **[semantica-agi /semantica](https://github.com/semantica-agi/semantica)** — Graph-Native Infrastructure for Context and Accountable AI Systems
-3. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-4. **[cactus-compute /needle](https://github.com/cactus-compute/needle)** — 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-5. **[altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
-6. **[unslothai /unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-7. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-8. **[megadose /holehe](https://github.com/megadose/holehe)** — holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-9. **[smicallef /spiderfoot](https://github.com/smicallef/spiderfoot)** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-10. **[NVIDIA-NeMo /Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+2. **[cactus-compute /needle](https://github.com/cactus-compute/needle)** — 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+3. **[megadose /holehe](https://github.com/megadose/holehe)** — holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+4. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+5. **[smicallef /spiderfoot](https://github.com/smicallef/spiderfoot)** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+6. **[citrolabs /ego-lite](https://github.com/citrolabs/ego-lite)** — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+7. **[holaboss-ai /holaOS](https://github.com/holaboss-ai/holaOS)** — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+8. **[github /spec-kit](https://github.com/github/spec-kit)** — 💫 Toolkit to help you get started with Spec-Driven Development
+9. **[lightningpixel /modly](https://github.com/lightningpixel/modly)** — Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
+10. **[infiniflow /ragflow](https://github.com/infiniflow/ragflow)** — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 <!-- TRENDING-END -->
+
 
 
 
