@@ -4,19 +4,17 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-16 12:12 IST
+**Updated:** 2026-08-17 12:29 IST
 
 1. **[cordiverse /cordis](https://github.com/cordiverse/cordis)** — Meta-Framework of Spatiotemporal Composability
-2. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-3. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
-4. **[cactus-compute /needle](https://github.com/cactus-compute/needle)** — 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-5. **[unslothai /unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-6. **[public-apis /public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-7. **[MakazhanAlpamys /Soup](https://github.com/MakazhanAlpamys/Soup)** — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-8. **[github /spec-kit](https://github.com/github/spec-kit)** — 💫 Toolkit to help you get started with Spec-Driven Development
-9. **[megadose /holehe](https://github.com/megadose/holehe)** — holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-10. **[altic-dev /FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp
+2. **[basecamp /omarchy](https://github.com/basecamp/omarchy)** — Beautiful, Modern & Opinionated Linux
+3. **[unslothai /unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+4. **[OpenCut-app /OpenCut](https://github.com/OpenCut-app/OpenCut)** — The open-source CapCut alternative
+5. **[public-apis /public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
+6. **[ToolJet /ToolJet](https://github.com/ToolJet/ToolJet)** — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+7. **[cactus-compute /needle](https://github.com/cactus-compute/needle)** — 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 <!-- TRENDING-END -->
+
 
 
 
