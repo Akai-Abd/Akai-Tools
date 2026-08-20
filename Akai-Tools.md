@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-19 12:18 IST
+**Updated:** 2026-08-20 12:20 IST
 
 1. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-2. **[chaitanyagiri /munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** — local multi-agent harness
-3. **[akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)** — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-4. **[volcengine /OpenViking](https://github.com/volcengine/OpenViking)** — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-5. **[mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-6. **[public-apis /public-apis](https://github.com/public-apis/public-apis)** — A collective list of free APIs
-7. **[basecamp /omarchy](https://github.com/basecamp/omarchy)** — Beautiful, Modern & Opinionated Linux
-8. **[agalwood /Motrix](https://github.com/agalwood/Motrix)** — A full-featured download manager.
-9. **[NawfalMotii79 /PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)** — Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
-10. **[jundot /omlx](https://github.com/jundot/omlx)** — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+2. **[volcengine /OpenViking](https://github.com/volcengine/OpenViking)** — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+3. **[chaitanyagiri /munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** — local multi-agent harness
+4. **[mukul975 /Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+5. **[nautechsystems /nautilus_trader](https://github.com/nautechsystems/nautilus_trader)** — Production-grade Rust-native trading engine with deterministic event-driven architecture
+6. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+8. **[jundot /omlx](https://github.com/jundot/omlx)** — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+9. **[santifer /career-ops](https://github.com/santifer/career-ops)** — Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+10. **[immich-app /immich](https://github.com/immich-app/immich)** — High performance self-hosted photo and video management solution.
 <!-- TRENDING-END -->
+
 
 
 
