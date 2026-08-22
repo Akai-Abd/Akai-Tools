@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-21 12:21 IST
+**Updated:** 2026-08-22 12:12 IST
 
-1. **[modular /modular](https://github.com/modular/modular)** — The Modular Platform (includes MAX & Mojo)
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)** — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-5. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
-6. **[santifer /career-ops](https://github.com/santifer/career-ops)** — Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-7. **[akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)** — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-8. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-9. **[agent-substrate /substrate](https://github.com/agent-substrate/substrate)** — Agent Substrate: the core system
-10. **[chaitanyagiri /munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** — local multi-agent harness
+1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+2. **[mahlernim /google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)** — Visualize your year in travel using your Google Location History (Timeline) data
+3. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+4. **[AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)** — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+5. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+6. **[microsoft /TypeScript](https://github.com/microsoft/TypeScript)** — TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+8. **[santifer /career-ops](https://github.com/santifer/career-ops)** — Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+9. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
+10. **[modular /modular](https://github.com/modular/modular)** — The Modular Platform (includes MAX & Mojo)
 <!-- TRENDING-END -->
+
 
 
 
