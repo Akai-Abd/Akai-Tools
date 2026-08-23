@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-22 12:12 IST
+**Updated:** 2026-08-23 12:14 IST
 
-1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-2. **[mahlernim /google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer)** — Visualize your year in travel using your Google Location History (Timeline) data
-3. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-4. **[AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)** — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-5. **[PostHog /posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-6. **[microsoft /TypeScript](https://github.com/microsoft/TypeScript)** — TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-8. **[santifer /career-ops](https://github.com/santifer/career-ops)** — Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
-9. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
+1. **[openai /codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal
+2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+3. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+5. **[Wei-Shaw /sub2api](https://github.com/Wei-Shaw/sub2api)** — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+6. **[makeplane /plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+7. **[n8n-io /n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+8. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+9. **[AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)** — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 10. **[modular /modular](https://github.com/modular/modular)** — The Modular Platform (includes MAX & Mojo)
 <!-- TRENDING-END -->
+
 
 
 
