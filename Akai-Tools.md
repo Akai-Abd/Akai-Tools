@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-23 12:14 IST
+**Updated:** 2026-08-24 12:32 IST
 
 1. **[openai /codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-5. **[Wei-Shaw /sub2api](https://github.com/Wei-Shaw/sub2api)** — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-6. **[makeplane /plane](https://github.com/makeplane/plane)** — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-7. **[n8n-io /n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-8. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-9. **[AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)** — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-10. **[modular /modular](https://github.com/modular/modular)** — The Modular Platform (includes MAX & Mojo)
+2. **[freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+3. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+4. **[basecamp /omarchy](https://github.com/basecamp/omarchy)** — Beautiful, Modern & Opinionated Linux
+5. **[AprilNEA /OpenLogi](https://github.com/AprilNEA/OpenLogi)** — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+6. **[block /buzz](https://github.com/block/buzz)** — A hive mind communication platform
+7. **[apache /maka](https://github.com/apache/maka)** — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
+8. **[Alishahryar1 /free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+9. **[tinyhumansai /openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+10. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 <!-- TRENDING-END -->
+
 
 
 
