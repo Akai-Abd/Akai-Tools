@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-28 23:50 IST
+**Updated:** 2026-08-29 17:58 IST
 
 1. **[tt-a1i /archify](https://github.com/tt-a1i/archify)** — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 2. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
@@ -17,6 +17,7 @@
 9. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
 10. **[freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 <!-- TRENDING-END -->
+
 
 
 
