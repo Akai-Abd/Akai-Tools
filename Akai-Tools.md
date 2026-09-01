@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-08-31 18:33 IST
+**Updated:** 2026-09-01 16:49 IST
 
-1. **[THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-2. **[tt-a1i /archify](https://github.com/tt-a1i/archify)** — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-3. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-4. **[k1tbyte /Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)** — Advanced UX and interoperability extension for Wand (WeMod) app
-5. **[majd /ipatool](https://github.com/majd/ipatool)** — Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
-6. **[jingyaogong /minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h!
-7. **[Osmantic /ODS](https://github.com/Osmantic/ODS)** — Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
-8. **[checkstyle /checkstyle](https://github.com/checkstyle/checkstyle)** — Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-9. **[zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-10. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+1. **[Gitlawb /openclaude](https://github.com/Gitlawb/openclaude)** — runs anywhere. uses anything
+2. **[Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize
+3. **[THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+4. **[iv-org /invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
+5. **[jingyaogong /minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+6. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+7. **[3b1b /manim](https://github.com/3b1b/manim)** — Animation engine for explanatory math videos
+8. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+9. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
+10. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 <!-- TRENDING-END -->
+
 
 
 
