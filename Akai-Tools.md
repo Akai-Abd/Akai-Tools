@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-01 16:49 IST
+**Updated:** 2026-09-02 16:23 IST
 
 1. **[Gitlawb /openclaude](https://github.com/Gitlawb/openclaude)** — runs anywhere. uses anything
 2. **[Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 3. **[THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 4. **[iv-org /invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
 5. **[jingyaogong /minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h!
-6. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-7. **[3b1b /manim](https://github.com/3b1b/manim)** — Animation engine for explanatory math videos
-8. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-9. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
-10. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+6. **[3b1b /manim](https://github.com/3b1b/manim)** — Animation engine for explanatory math videos
+7. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+8. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
+9. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+10. **[handsomestWei /patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
 <!-- TRENDING-END -->
+
 
 
 
