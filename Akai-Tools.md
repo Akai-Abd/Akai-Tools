@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-02 16:23 IST
+**Updated:** 2026-09-03 16:23 IST
 
-1. **[Gitlawb /openclaude](https://github.com/Gitlawb/openclaude)** — runs anywhere. uses anything
-2. **[Imbad0202 /academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize
-3. **[THU-MAIC /OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
-4. **[iv-org /invidious](https://github.com/iv-org/invidious)** — Invidious is an alternative front-end to YouTube
-5. **[jingyaogong /minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h!
-6. **[3b1b /manim](https://github.com/3b1b/manim)** — Animation engine for explanatory math videos
-7. **[firecrawl /pdf-inspector](https://github.com/firecrawl/pdf-inspector)** — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-8. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
-9. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-10. **[handsomestWei /patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+1. **[fmtlib /fmt](https://github.com/fmtlib/fmt)** — A modern formatting library
+2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+3. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+4. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+5. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+6. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+7. **[JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+8. **[blader /humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text
+9. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+10. **[averygan /reclip](https://github.com/averygan/reclip)** — Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
 <!-- TRENDING-END -->
+
 
 
 
