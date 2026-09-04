@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-03 16:23 IST
+**Updated:** 2026-09-04 16:22 IST
 
-1. **[fmtlib /fmt](https://github.com/fmtlib/fmt)** — A modern formatting library
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
-4. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+1. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+2. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+3. **[fmtlib /fmt](https://github.com/fmtlib/fmt)** — A modern formatting library
+4. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 5. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-6. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-7. **[JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-8. **[blader /humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text
-9. **[google-research /timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-10. **[averygan /reclip](https://github.com/averygan/reclip)** — Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+6. **[blader /humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text
+7. **[NousResearch /hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you
+8. **[JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+9. **[magnitudedev /magnitude](https://github.com/magnitudedev/magnitude)** — Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
+10. **[bikini /exploitarium](https://github.com/bikini/exploitarium)** — A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
 <!-- TRENDING-END -->
+
 
 
 
