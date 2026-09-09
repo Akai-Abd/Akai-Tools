@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-08 16:22 IST
+**Updated:** 2026-09-09 16:27 IST
 
 1. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-2. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-3. **[openai /skills](https://github.com/openai/skills)** — Skills Catalog for Codex
-4. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-5. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
-6. **[coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-8. **[multica-ai /andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-9. **[microsoft /markitdown](https://github.com/microsoft/markitdown)** — Python tool for converting files and office documents to Markdown.
-10. **[jo-inc /camofox-browser](https://github.com/jo-inc/camofox-browser)** — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
+2. **[Tencent /teamai-cli](https://github.com/Tencent/teamai-cli)** — Make Every Team AI Native
+3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+4. **[pascalorg /editor](https://github.com/pascalorg/editor)** — Create and share 3D architectural projects.
+5. **[earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)** — A library of agent skills for CAD, CAE and CAM
+6. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+7. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
+8. **[liquidslr /system-design-notes](https://github.com/liquidslr/system-design-notes)** — Notes of the book System Desgin Interview - An Insider's Guide
+9. **[openai /plugins](https://github.com/openai/plugins)** — OpenAI Plugins
+10. **[freestylefly /awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 <!-- TRENDING-END -->
+
 
 
 
