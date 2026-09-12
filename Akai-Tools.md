@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-11 16:21 IST
+**Updated:** 2026-09-12 15:49 IST
 
 1. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 2. **[bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
@@ -17,6 +17,7 @@
 9. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 10. **[Sonarr /Sonarr](https://github.com/Sonarr/Sonarr)** — Smart PVR for newsgroup and bittorrent users.
 <!-- TRENDING-END -->
+
 
 
 
