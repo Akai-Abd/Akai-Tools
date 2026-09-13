@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-12 15:49 IST
+**Updated:** 2026-09-13 16:49 IST
 
-1. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-2. **[bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-3. **[nab138 /iloader](https://github.com/nab138/iloader)** — User friendly sideloader
-4. **[melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-5. **[vastsa /PI-Desktop](https://github.com/vastsa/PI-Desktop)** — Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-6. **[armory3d /armorpaint](https://github.com/armory3d/armorpaint)** — Graphics Creation Tools
-7. **[alsk1992 /CloddsBot](https://github.com/alsk1992/CloddsBot)** — Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
-8. **[nashsu /llm_wiki](https://github.com/nashsu/llm_wiki)** — LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
-9. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-10. **[Sonarr /Sonarr](https://github.com/Sonarr/Sonarr)** — Smart PVR for newsgroup and bittorrent users.
+1. **[JustVugg /colibri](https://github.com/JustVugg/colibri)** — Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+2. **[ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)** — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co
+3. **[bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+4. **[tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)** — The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+5. **[melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+6. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+7. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+8. **[vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+9. **[multimodal-art-projection /YuE](https://github.com/multimodal-art-projection/YuE)** — YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+10. **[yuliskov /SmartTube](https://github.com/yuliskov/SmartTube)** — Browse media content with your own rules on Android TV
 <!-- TRENDING-END -->
+
 
 
 
