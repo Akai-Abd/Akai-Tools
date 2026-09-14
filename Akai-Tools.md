@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-13 16:49 IST
+**Updated:** 2026-09-14 17:41 IST
 
 1. **[JustVugg /colibri](https://github.com/JustVugg/colibri)** — Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-2. **[ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)** — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co
-3. **[bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-4. **[tech-leads-club /agent-skills](https://github.com/tech-leads-club/agent-skills)** — The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
-5. **[melgarafael /DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-6. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+2. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+3. **[multimodal-art-projection /YuE](https://github.com/multimodal-art-projection/YuE)** — YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+4. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+5. **[666ghj /MiroFish](https://github.com/666ghj/MiroFish)** — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+6. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 7. **[asgeirtj /system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
-8. **[vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-9. **[multimodal-art-projection /YuE](https://github.com/multimodal-art-projection/YuE)** — YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
-10. **[yuliskov /SmartTube](https://github.com/yuliskov/SmartTube)** — Browse media content with your own rules on Android TV
+8. **[rlaope /oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+9. **[localsend /localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop
+10. **[dani-garcia /vaultwarden](https://github.com/dani-garcia/vaultwarden)** — Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 <!-- TRENDING-END -->
+
 
 
 
