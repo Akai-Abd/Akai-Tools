@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-16 16:35 IST
+**Updated:** 2026-09-17 16:44 IST
 
 1. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 2. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-3. **[JustVugg /colibri](https://github.com/JustVugg/colibri)** — Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-4. **[abue-ammar /tinycast](https://github.com/abue-ammar/tinycast)** — Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-5. **[jamiepine /voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create.
-6. **[Lakr233 /vphone-cli](https://github.com/Lakr233/vphone-cli)** — No description provided
-7. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-8. **[ever-co /ever-gauzy](https://github.com/ever-co/ever-gauzy)** — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co
-9. **[ankitects /anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program
-10. **[NationalSecurityAgency /ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
+3. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+4. **[Tencent /BrowserSkill](https://github.com/Tencent/BrowserSkill)** — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+5. **[alphaXiv /OpenResearch](https://github.com/alphaXiv/OpenResearch)** — Turn your coding agents into research agents
+6. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+7. **[NationalSecurityAgency /ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
+8. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+9. **[Tencent /WeKnora](https://github.com/Tencent/WeKnora)** — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+10. **[abue-ammar /tinycast](https://github.com/abue-ammar/tinycast)** — Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 <!-- TRENDING-END -->
+
 
 
 
