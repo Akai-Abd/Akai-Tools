@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-17 16:44 IST
+**Updated:** 2026-09-19 16:01 IST
 
-1. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-2. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-3. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-4. **[Tencent /BrowserSkill](https://github.com/Tencent/BrowserSkill)** — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-5. **[alphaXiv /OpenResearch](https://github.com/alphaXiv/OpenResearch)** — Turn your coding agents into research agents
-6. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-7. **[NationalSecurityAgency /ghidra](https://github.com/NationalSecurityAgency/ghidra)** — Ghidra is a software reverse engineering (SRE) framework
-8. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-9. **[Tencent /WeKnora](https://github.com/Tencent/WeKnora)** — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-10. **[abue-ammar /tinycast](https://github.com/abue-ammar/tinycast)** — Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+1. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+2. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+3. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+4. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+5. **[Tencent /BrowserSkill](https://github.com/Tencent/BrowserSkill)** — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+7. **[TencentCloud /Octop](https://github.com/TencentCloud/Octop)** — A smarter, self-hosted AI assistant — multi-user, multi-agent.
+8. **[Fission-AI /OpenSpec](https://github.com/Fission-AI/OpenSpec)** — Spec-driven development (SDD) for AI coding assistants.
+9. **[ankitects /anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program
+10. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 <!-- TRENDING-END -->
+
 
 
 
