@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-19 16:01 IST
+**Updated:** 2026-09-20 16:24 IST
 
-1. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-2. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-3. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-4. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-5. **[Tencent /BrowserSkill](https://github.com/Tencent/BrowserSkill)** — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-7. **[TencentCloud /Octop](https://github.com/TencentCloud/Octop)** — A smarter, self-hosted AI assistant — multi-user, multi-agent.
-8. **[Fission-AI /OpenSpec](https://github.com/Fission-AI/OpenSpec)** — Spec-driven development (SDD) for AI coding assistants.
-9. **[ankitects /anki](https://github.com/ankitects/anki)** — Anki is a smart spaced repetition flashcard program
-10. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+1. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+2. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agentic apps
+3. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+4. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+5. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
+6. **[paperless-ngx /paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
+7. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+8. **[mihail911 /modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)** — Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
+9. **[higgsfield-ai /higgsfield](https://github.com/higgsfield-ai/higgsfield)** — Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
+10. **[Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 <!-- TRENDING-END -->
+
 
 
 
