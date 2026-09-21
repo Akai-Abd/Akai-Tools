@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-20 16:24 IST
+**Updated:** 2026-09-21 17:50 IST
 
-1. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-2. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agentic apps
-3. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-4. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-5. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
-6. **[paperless-ngx /paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** — A community-supported supercharged document management system: scan, index and archive all your documents
-7. **[anthropics /claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-8. **[mihail911 /modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)** — Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)
-9. **[higgsfield-ai /higgsfield](https://github.com/higgsfield-ai/higgsfield)** — Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
-10. **[Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+1. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agentic apps
+2. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+3. **[Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+4. **[akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)** — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+5. **[coder /coder](https://github.com/coder/coder)** — Secure environments for developers and their agents
+6. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
+7. **[cloudflare /quiche](https://github.com/cloudflare/quiche)** — 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+8. **[mvt-project /mvt](https://github.com/mvt-project/mvt)** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+9. **[zhouxiaoka /autoclip](https://github.com/zhouxiaoka/autoclip)** — AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
+10. **[ruanyf /weekly](https://github.com/ruanyf/weekly)** — 科技爱好者周刊，每周五发布
 <!-- TRENDING-END -->
+
 
 
 
