@@ -4,19 +4,18 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-21 17:50 IST
+**Updated:** 2026-09-22 16:41 IST
 
-1. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agentic apps
-2. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-3. **[Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-4. **[akitaonrails /ai-memory](https://github.com/akitaonrails/ai-memory)** — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-5. **[coder /coder](https://github.com/coder/coder)** — Secure environments for developers and their agents
-6. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
-7. **[cloudflare /quiche](https://github.com/cloudflare/quiche)** — 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-8. **[mvt-project /mvt](https://github.com/mvt-project/mvt)** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-9. **[zhouxiaoka /autoclip](https://github.com/zhouxiaoka/autoclip)** — AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
-10. **[ruanyf /weekly](https://github.com/ruanyf/weekly)** — 科技爱好者周刊，每周五发布
+1. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
+2. **[agent-substrate /substrate](https://github.com/agent-substrate/substrate)** — Agent Substrate: the core system
+3. **[dream-num /univer](https://github.com/dream-num/univer)** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+4. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
+5. **[google /ax](https://github.com/google/ax)** — Google's open agentic orchestration runtime
+6. **[mvt-project /mvt](https://github.com/mvt-project/mvt)** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+7. **[superdesigndev /treg](https://github.com/superdesigndev/treg)** — OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
+8. **[browser-use /video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents
 <!-- TRENDING-END -->
+
 
 
 
