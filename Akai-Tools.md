@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-23 16:32 IST
+**Updated:** 2026-09-24 16:50 IST
 
-1. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
-2. **[google /ax](https://github.com/google/ax)** — Google's open agentic orchestration runtime
-3. **[davila7 /claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code
-4. **[BuilderIO /agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agentic apps
-5. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-6. **[dream-num /univer](https://github.com/dream-num/univer)** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
-7. **[Open-Dev-Society /OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-8. **[agent-substrate /substrate](https://github.com/agent-substrate/substrate)** — Agent Substrate: the core system
-9. **[strands-agents /harness-sdk](https://github.com/strands-agents/harness-sdk)** — Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-10. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+1. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+2. **[vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns
+3. **[dream-num /univer](https://github.com/dream-num/univer)** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+4. **[google /ax](https://github.com/google/ax)** — Google's open agentic orchestration runtime
+5. **[NVIDIA /Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+6. **[FxEmbed /FxEmbed](https://github.com/FxEmbed/FxEmbed)** — Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+7. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
+8. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+9. **[mvt-project /mvt](https://github.com/mvt-project/mvt)** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
+10. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 <!-- TRENDING-END -->
+
 
 
 
