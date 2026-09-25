@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-24 16:50 IST
+**Updated:** 2026-09-25 16:56 IST
 
-1. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
-2. **[vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns
-3. **[dream-num /univer](https://github.com/dream-num/univer)** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
-4. **[google /ax](https://github.com/google/ax)** — Google's open agentic orchestration runtime
-5. **[NVIDIA /Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
-6. **[FxEmbed /FxEmbed](https://github.com/FxEmbed/FxEmbed)** — Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-7. **[anthropics /financial-services](https://github.com/anthropics/financial-services)** — No description provided
-8. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
-9. **[mvt-project /mvt](https://github.com/mvt-project/mvt)** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-10. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+1. **[paperclipai /paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work
+2. **[anthropics /claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins.
+3. **[vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns
+4. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+6. **[dream-num /univer](https://github.com/dream-num/univer)** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+7. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+8. **[androoAGI /starnet](https://github.com/androoAGI/starnet)** — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+9. **[kelseyhightower /kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)** — Bootstrap Kubernetes the hard way. No scripts.
+10. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
 <!-- TRENDING-END -->
+
 
 
 
