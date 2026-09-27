@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-26 16:31 IST
+**Updated:** 2026-09-27 17:10 IST
 
 1. **[paperclipai /paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work
 2. **[vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns
@@ -17,6 +17,7 @@
 9. **[microsoft /vscode](https://github.com/microsoft/vscode)** — Visual Studio Code
 10. **[zhaoxuya520 /reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 <!-- TRENDING-END -->
+
 
 
 
