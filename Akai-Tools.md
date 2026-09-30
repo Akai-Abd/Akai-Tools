@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-29 17:53 IST
+**Updated:** 2026-09-30 17:38 IST
 
-1. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-2. **[NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents.
-3. **[vectorize-io /hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns
-4. **[paperclipai /paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work
-5. **[t8y2 /dbx](https://github.com/t8y2/dbx)** — 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
-6. **[mvschwarz /openrig](https://github.com/mvschwarz/openrig)** — Multi-agent harness that runs Claude Code and Codex together as one system
-7. **[oblien /openship](https://github.com/oblien/openship)** — Self-hosted deployment platform
-8. **[averygan /reclip](https://github.com/averygan/reclip)** — Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
-9. **[cs341-illinois /coursebook](https://github.com/cs341-illinois/coursebook)** — Open Source Introductory Systems Programming Textbook for the University of Illinois
-10. **[rohitg00 /ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others.
+1. **[NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents.
+2. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+3. **[mvschwarz /openrig](https://github.com/mvschwarz/openrig)** — Multi-agent harness that runs Claude Code and Codex together as one system
+4. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+5. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+6. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+7. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+8. **[ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+9. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+10. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
 <!-- TRENDING-END -->
+
 
 
 
