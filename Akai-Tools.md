@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-09-30 17:38 IST
+**Updated:** 2026-10-01 18:12 IST
 
-1. **[NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents.
-2. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-3. **[mvschwarz /openrig](https://github.com/mvschwarz/openrig)** — Multi-agent harness that runs Claude Code and Codex together as one system
-4. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-5. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-6. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-7. **[openclaw /openclaw](https://github.com/openclaw/openclaw)** — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-8. **[ComposioHQ /awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-9. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-10. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+1. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+3. **[NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents.
+4. **[firebase /firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)** — Firebase SDK for Apple App Development
+5. **[mvschwarz /openrig](https://github.com/mvschwarz/openrig)** — Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+6. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
+7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+8. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+9. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
+10. **[earendil-works /pi](https://github.com/earendil-works/pi)** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 <!-- TRENDING-END -->
+
 
 
 
