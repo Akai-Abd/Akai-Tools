@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-01 18:12 IST
+**Updated:** 2026-10-02 17:36 IST
 
-1. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents.
-4. **[firebase /firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)** — Firebase SDK for Apple App Development
-5. **[mvschwarz /openrig](https://github.com/mvschwarz/openrig)** — Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-6. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
-7. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-8. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+1. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+2. **[JuliusBrussee /caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+4. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+5. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
+6. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+7. **[NVIDIA /OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents.
+8. **[coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 9. **[heygen-com /hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents.
-10. **[earendil-works /pi](https://github.com/earendil-works/pi)** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+10. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 <!-- TRENDING-END -->
+
 
 
 
