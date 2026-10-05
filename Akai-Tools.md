@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-04 17:27 IST
+**Updated:** 2026-10-05 19:29 IST
 
 1. **[tester-army /e2e](https://github.com/tester-army/e2e)** — Next generation e2e testing framework for web and mobile apps.
-2. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-3. **[coreyhaines31 /marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-4. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-5. **[earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)** — Give your agent CAD superpowers.
+2. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+3. **[earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)** — Give your agent CAD superpowers.
+4. **[pingdotgg /t3code](https://github.com/pingdotgg/t3code)** — No description provided
+5. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
 6. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-7. **[getsentry /sentry](https://github.com/getsentry/sentry)** — Developer-first error tracking and performance monitoring
-8. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-9. **[pingdotgg /t3code](https://github.com/pingdotgg/t3code)** — No description provided
-10. **[caddyserver /caddy](https://github.com/caddyserver/caddy)** — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+7. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+8. **[caddyserver /caddy](https://github.com/caddyserver/caddy)** — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+9. **[DuarteSantos8 /openGym](https://github.com/DuarteSantos8/openGym)** — Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+10. **[cloudflare /cloudflare-os](https://github.com/cloudflare/cloudflare-os)** — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 <!-- TRENDING-END -->
+
 
 
 
