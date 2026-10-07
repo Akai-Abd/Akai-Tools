@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-05 19:29 IST
+**Updated:** 2026-10-07 18:23 IST
 
-1. **[tester-army /e2e](https://github.com/tester-army/e2e)** — Next generation e2e testing framework for web and mobile apps.
-2. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-3. **[earthtojake /text-to-cad](https://github.com/earthtojake/text-to-cad)** — Give your agent CAD superpowers.
-4. **[pingdotgg /t3code](https://github.com/pingdotgg/t3code)** — No description provided
-5. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
-6. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-7. **[calesthio /OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-8. **[caddyserver /caddy](https://github.com/caddyserver/caddy)** — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-9. **[DuarteSantos8 /openGym](https://github.com/DuarteSantos8/openGym)** — Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-10. **[cloudflare /cloudflare-os](https://github.com/cloudflare/cloudflare-os)** — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+1. **[morluto /rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
+2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+3. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
+4. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+5. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+7. **[EpicGames /raddebugger](https://github.com/EpicGames/raddebugger)** — A native, user-mode, multi-process, graphical debugger.
+8. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+9. **[manaflow-ai /cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+10. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 <!-- TRENDING-END -->
+
 
 
 
