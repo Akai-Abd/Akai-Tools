@@ -4,19 +4,19 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-07 18:23 IST
+**Updated:** 2026-10-08 18:32 IST
 
-1. **[morluto /rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
-4. **[ayghri /i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-5. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-6. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-7. **[EpicGames /raddebugger](https://github.com/EpicGames/raddebugger)** — A native, user-mode, multi-process, graphical debugger.
-8. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-9. **[manaflow-ai /cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-10. **[trycua /cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+1. **[boykopovar /AnyPS5](https://github.com/boykopovar/AnyPS5)** — Tool for automatic PS5 executables porting to Linux and Windows
+2. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+3. **[morluto /rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
+4. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+5. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+6. **[EpicGames /raddebugger](https://github.com/EpicGames/raddebugger)** — A native, user-mode, multi-process, graphical debugger.
+7. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+8. **[storytold /artcraft](https://github.com/storytold/artcraft)** — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+9. **[liquidslr /system-design-notes](https://github.com/liquidslr/system-design-notes)** — Notes of the book System Desgin Interview - An Insider's Guide
 <!-- TRENDING-END -->
+
 
 
 
