@@ -4,18 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-13 19:18 IST
+**Updated:** 2026-10-14 16:55 IST
 
 1. **[morluto /rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries.
-2. **[bilawalsidhu /gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** — A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-3. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-4. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-5. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-6. **[vercel-labs /skills](https://github.com/vercel-labs/skills)** — The open agent skills tool - npx skills
-7. **[lyogavin /airllm](https://github.com/lyogavin/airllm)** — AirLLM 2.8T LLM inference with single 4GB GPU
-8. **[storytold /artcraft](https://github.com/storytold/artcraft)** — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-9. **[xtool-org /xtool](https://github.com/xtool-org/xtool)** — Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+2. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+3. **[mksglu /context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+4. **[nvm-sh /nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+5. **[K-Dense-AI /scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+6. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+7. **[ifixai-ai /iFixAi](https://github.com/ifixai-ai/iFixAi)** — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+8. **[vxcontrol /pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+9. **[rust-lang /rust](https://github.com/rust-lang/rust)** — Empowering everyone to build reliable and efficient software.
+10. **[xtool-org /xtool](https://github.com/xtool-org/xtool)** — Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 <!-- TRENDING-END -->
+
 
 
 
