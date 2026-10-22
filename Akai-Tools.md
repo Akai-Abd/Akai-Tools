@@ -4,19 +4,19 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-21 16:53 IST
+**Updated:** 2026-10-22 16:53 IST
 
-1. **[MadsLorentzen /ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-2. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-3. **[vllm-project /vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs
-4. **[stablyai /orca](https://github.com/stablyai/orca)** — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-5. **[headroomlabs-ai /headroom](https://github.com/headroomlabs-ai/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-6. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-7. **[Comfy-Org /ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
-8. **[supabase /supabase](https://github.com/supabase/supabase)** — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-9. **[twentyhq /twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI.
-10. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
+1. **[php /php-src](https://github.com/php/php-src)** — The PHP Interpreter
+2. **[anthropics /knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+3. **[DietrichGebert /ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+4. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+5. **[Graphify-Labs /graphify](https://github.com/Graphify-Labs/graphify)** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+6. **[supabase /supabase](https://github.com/supabase/supabase)** — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+7. **[fastapi /fastapi](https://github.com/fastapi/fastapi)** — FastAPI framework, high performance, easy to learn, fast to code, ready for production
+8. **[luongnv89 /claude-howto](https://github.com/luongnv89/claude-howto)** — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+9. **[Meloong-Git /PCL](https://github.com/Meloong-Git/PCL)** — Minecraft 启动器 Plain Craft Launcher（PCL）。
 <!-- TRENDING-END -->
+
 
 
 
