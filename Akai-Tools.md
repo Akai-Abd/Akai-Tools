@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-23 16:43 IST
+**Updated:** 2026-10-24 16:02 IST
 
 1. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 2. **[php /php-src](https://github.com/php/php-src)** — The PHP Interpreter
@@ -15,6 +15,7 @@
 7. **[OpenBMB /VoxCPM](https://github.com/OpenBMB/VoxCPM)** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 8. **[nodejs /node](https://github.com/nodejs/node)** — Node.js JavaScript runtime ✨🐢🚀✨
 <!-- TRENDING-END -->
+
 
 
 
