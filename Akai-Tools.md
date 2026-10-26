@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-25 16:27 IST
+**Updated:** 2026-10-26 17:59 IST
 
-1. **[makecindy /cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-2. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-3. **[debpalash /VoiceStudio](https://github.com/debpalash/VoiceStudio)** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-4. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-5. **[pollen-robotics /microduck](https://github.com/pollen-robotics/microduck)** — A Tiny biped duck robot 🦆
-6. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-7. **[Renhuai123 /ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-8. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-9. **[coollabsio /coolify](https://github.com/coollabsio/coolify)** — An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-10. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+1. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+2. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
+3. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+4. **[makecindy /cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+5. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+6. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
+7. **[NVIDIA /SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+8. **[pollen-robotics /microduck](https://github.com/pollen-robotics/microduck)** — A Tiny biped duck robot 🦆
+9. **[nightly-labs /openbot](https://github.com/nightly-labs/openbot)** — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+10. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 <!-- TRENDING-END -->
+
 
 
 
