@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-26 17:59 IST
+**Updated:** 2026-10-27 17:17 IST
 
 1. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-2. **[TauricResearch /TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework
-3. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-4. **[makecindy /cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-5. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-6. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-7. **[NVIDIA /SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-8. **[pollen-robotics /microduck](https://github.com/pollen-robotics/microduck)** — A Tiny biped duck robot 🦆
-9. **[nightly-labs /openbot](https://github.com/nightly-labs/openbot)** — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-10. **[Panniantong /Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+2. **[nightly-labs /openbot](https://github.com/nightly-labs/openbot)** — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+4. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
+5. **[makecindy /cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+6. **[gitroomhq /postiz-app](https://github.com/gitroomhq/postiz-app)** — 📨 The ultimate agentic social media scheduling tool 🤖
+7. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+8. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+9. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+10. **[togg53192-cmd /jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** — LIST OF ALL MY JAILBREAKS
 <!-- TRENDING-END -->
+
 
 
 
