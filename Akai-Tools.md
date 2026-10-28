@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-27 17:17 IST
+**Updated:** 2026-10-28 17:51 IST
 
-1. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-2. **[nightly-labs /openbot](https://github.com/nightly-labs/openbot)** — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+1. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+2. **[elayadesign /ai-design-skills](https://github.com/elayadesign/ai-design-skills)** — No description provided
 3. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-4. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design.
-5. **[makecindy /cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-6. **[gitroomhq /postiz-app](https://github.com/gitroomhq/postiz-app)** — 📨 The ultimate agentic social media scheduling tool 🤖
-7. **[affaan-m /ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-8. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-9. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+4. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+5. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+6. **[Nutlope /hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+7. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+8. **[makecindy /cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+9. **[nightly-labs /openbot](https://github.com/nightly-labs/openbot)** — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 10. **[togg53192-cmd /jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** — LIST OF ALL MY JAILBREAKS
 <!-- TRENDING-END -->
+
 
 
 
