@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-10-29 18:00 IST
+**Updated:** 2026-10-30 17:52 IST
 
-1. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-2. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
+1. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+2. **[milind-soni /OpenMausBot](https://github.com/milind-soni/OpenMausBot)** — Open-source Grok Bot alternative with a virtual machine that bots can use
 3. **[pbakaus /impeccable](https://github.com/pbakaus/impeccable)** — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-4. **[JetBrains /thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
-5. **[milind-soni /OpenMausBot](https://github.com/milind-soni/OpenMausBot)** — Open-source Grok Bot alternative with a virtual machine that bots can use
-6. **[nightly-labs /openbot](https://github.com/nightly-labs/openbot)** — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-7. **[elayadesign /ai-design-skills](https://github.com/elayadesign/ai-design-skills)** — No description provided
-8. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-9. **[CopilotKit /OpenBot](https://github.com/CopilotKit/OpenBot)** — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-10. **[togg53192-cmd /jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** — LIST OF ALL MY JAILBREAKS
+4. **[CopilotKit /OpenBot](https://github.com/CopilotKit/OpenBot)** — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+5. **[Renhuai123 /ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+6. **[expo /skills](https://github.com/expo/skills)** — A collection of AI agent skills for working with Expo projects and Expo Application Services
+7. **[macro-inc /macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+8. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+9. **[pingdotgg /t3code](https://github.com/pingdotgg/t3code)** — No description provided
+10. **[HKUDS /DeepTutor](https://github.com/HKUDS/DeepTutor)** — DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 <!-- TRENDING-END -->
+
 
 
 
