@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-02 20:34 IST
+**Updated:** 2026-11-03 19:19 IST
 
-1. **[vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)** — Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.
-2. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-3. **[D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-4. **[hyprwm /Hyprland](https://github.com/hyprwm/Hyprland)** — Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-5. **[Donchitos /Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-6. **[FlashML-org /FreeToken](https://github.com/FlashML-org/FreeToken)** — FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-7. **[pingdotgg /t3code](https://github.com/pingdotgg/t3code)** — No description provided
-8. **[shiyu-coder /Kronos](https://github.com/shiyu-coder/Kronos)** — Kronos: A Foundation Model for the Language of Financial Markets
-9. **[kornia /kornia](https://github.com/kornia/kornia)** — 🐍 Geometric Computer Vision Library for Spatial AI
-10. **[JustVugg /colibri](https://github.com/JustVugg/colibri)** — Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+1. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+2. **[vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)** — Computer use CLI for AI agents
+3. **[max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+4. **[JustVugg /colibri](https://github.com/JustVugg/colibri)** — A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
+5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+6. **[p-e-w /heretic](https://github.com/p-e-w/heretic)** — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+7. **[spotify /portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** — No description provided
+8. **[floci-io /floci](https://github.com/floci-io/floci)** — Light, fluffy, and always free - The AWS Local Emulator alternative
+9. **[Usagi-org /ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+10. **[anomalyco /hex](https://github.com/anomalyco/hex)** — Local voice dictation for mac, windows and linux
 <!-- TRENDING-END -->
+
 
 
 
