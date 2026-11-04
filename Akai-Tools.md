@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-03 19:19 IST
+**Updated:** 2026-11-04 19:27 IST
 
-1. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-2. **[vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)** — Computer use CLI for AI agents
-3. **[max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-4. **[JustVugg /colibri](https://github.com/JustVugg/colibri)** — A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
-5. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-6. **[p-e-w /heretic](https://github.com/p-e-w/heretic)** — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
-7. **[spotify /portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)** — No description provided
-8. **[floci-io /floci](https://github.com/floci-io/floci)** — Light, fluffy, and always free - The AWS Local Emulator alternative
-9. **[Usagi-org /ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-10. **[anomalyco /hex](https://github.com/anomalyco/hex)** — Local voice dictation for mac, windows and linux
+1. **[NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+2. **[max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+3. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+4. **[floci-io /floci](https://github.com/floci-io/floci)** — Light, fluffy, and always free - The AWS Local Emulator alternative
+5. **[thedotmack /claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+6. **[vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)** — Computer use CLI for AI agents
+7. **[github /spec-kit](https://github.com/github/spec-kit)** — 💫 Toolkit to help you get started with SDD or any other process!
+8. **[The-PR-Agent /pr-agent](https://github.com/The-PR-Agent/pr-agent)** — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+9. **[harry0703 /MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+10. **[garrytan /gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 <!-- TRENDING-END -->
+
 
 
 
