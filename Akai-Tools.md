@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-05 19:46 IST
+**Updated:** 2026-11-06 19:25 IST
 
-1. **[NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-2. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
-3. **[garrytan /gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-4. **[Usagi-org /ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-5. **[D4Vinci /Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-6. **[vercel-labs /agent-desktop](https://github.com/vercel-labs/agent-desktop)** — Computer use CLI for AI agents
-7. **[max-sixty /worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-8. **[lz4 /lz4](https://github.com/lz4/lz4)** — Extremely Fast Compression algorithm
-9. **[google /skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
-10. **[vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
+1. **[zed-industries /zed](https://github.com/zed-industries/zed)** — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+2. **[NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+3. **[rails /rails](https://github.com/rails/rails)** — Ruby on Rails
+4. **[mpv-player /mpv](https://github.com/mpv-player/mpv)** — 🎥 Command line media player
+5. **[rust-lang /rust](https://github.com/rust-lang/rust)** — Empowering everyone to build reliable and efficient software.
+6. **[react /react](https://github.com/react/react)** — The library for web and native user interfaces.
+7. **[angular /angular](https://github.com/angular/angular)** — Deliver web apps with confidence 🚀
+8. **[symfony /symfony](https://github.com/symfony/symfony)** — The Symfony PHP framework
+9. **[prometheus /prometheus](https://github.com/prometheus/prometheus)** — The Prometheus monitoring system and time series database.
+10. **[google /skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
 <!-- TRENDING-END -->
+
 
 
 
