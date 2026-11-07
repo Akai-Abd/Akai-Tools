@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-06 19:25 IST
+**Updated:** 2026-11-07 18:09 IST
 
-1. **[zed-industries /zed](https://github.com/zed-industries/zed)** — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-2. **[NVIDIA /auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-3. **[rails /rails](https://github.com/rails/rails)** — Ruby on Rails
-4. **[mpv-player /mpv](https://github.com/mpv-player/mpv)** — 🎥 Command line media player
-5. **[rust-lang /rust](https://github.com/rust-lang/rust)** — Empowering everyone to build reliable and efficient software.
-6. **[react /react](https://github.com/react/react)** — The library for web and native user interfaces.
-7. **[angular /angular](https://github.com/angular/angular)** — Deliver web apps with confidence 🚀
-8. **[symfony /symfony](https://github.com/symfony/symfony)** — The Symfony PHP framework
-9. **[prometheus /prometheus](https://github.com/prometheus/prometheus)** — The Prometheus monitoring system and time series database.
-10. **[google /skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
+1. **[vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
+2. **[cloudflare /security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+3. **[google /skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies
+4. **[mattpocock /skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory.
+5. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+6. **[meta /astryx](https://github.com/meta/astryx)** — An open source design system that's fully customizable and agent ready
+7. **[prometheus /prometheus](https://github.com/prometheus/prometheus)** — The Prometheus monitoring system and time series database.
+8. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+9. **[milind-soni /OpenMausBot](https://github.com/milind-soni/OpenMausBot)** — Open-source Grok Bot alternative with a virtual machine that bots can use
+10. **[astral-sh /ruff](https://github.com/astral-sh/ruff)** — An extremely fast Python linter and code formatter, written in Rust.
 <!-- TRENDING-END -->
+
 
 
 
