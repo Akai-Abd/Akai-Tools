@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-09 21:05 IST
+**Updated:** 2026-11-10 20:01 IST
 
-1. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-2. **[meta /astryx](https://github.com/meta/astryx)** — An open source design system that's fully customizable and agent ready
-3. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
-4. **[google-deepmind /mujoco](https://github.com/google-deepmind/mujoco)** — Multi-Joint dynamics with Contact. A general purpose physics simulator.
-5. **[anthropics /claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-6. **[garrytan /gbrain](https://github.com/garrytan/gbrain)** — Garry's Opinionated OpenClaw/Hermes Agent Brain
-7. **[vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
-8. **[ruvnet /RuView](https://github.com/ruvnet/RuView)** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-9. **[ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-10. **[homeassistant-ai /ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+1. **[meta /astryx](https://github.com/meta/astryx)** — An open source design system that's fully customizable and agent ready
+2. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
+3. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+4. **[anthropics /claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+5. **[google-deepmind /mujoco](https://github.com/google-deepmind/mujoco)** — Multi-Joint dynamics with Contact. A general purpose physics simulator.
+6. **[we-promise /sure](https://github.com/we-promise/sure)** — The personal finance app for everyone (by everyone)
+7. **[homeassistant-ai /ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+8. **[vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
+9. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
+10. **[tokio-rs /topcoat](https://github.com/tokio-rs/topcoat)** — A batteries-included framework for building web apps
 <!-- TRENDING-END -->
+
 
 
 
