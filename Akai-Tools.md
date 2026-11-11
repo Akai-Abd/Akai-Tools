@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-10 20:01 IST
+**Updated:** 2026-11-11 19:16 IST
 
 1. **[meta /astryx](https://github.com/meta/astryx)** — An open source design system that's fully customizable and agent ready
-2. **[anthropics /skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills
-3. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
-4. **[anthropics /claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-5. **[google-deepmind /mujoco](https://github.com/google-deepmind/mujoco)** — Multi-Joint dynamics with Contact. A general purpose physics simulator.
-6. **[we-promise /sure](https://github.com/we-promise/sure)** — The personal finance app for everyone (by everyone)
-7. **[homeassistant-ai /ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-8. **[vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
-9. **[sherlock-project /sherlock](https://github.com/sherlock-project/sherlock)** — Hunt down social media accounts by username across social networks
-10. **[tokio-rs /topcoat](https://github.com/tokio-rs/topcoat)** — A batteries-included framework for building web apps
+2. **[ZhuLinsen /daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+3. **[GoogleChrome /modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** — No description provided
+4. **[shadcn /improve](https://github.com/shadcn/improve)** — Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+5. **[addyosmani /agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents.
+6. **[vercel-labs /agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents
+7. **[we-promise /sure](https://github.com/we-promise/sure)** — The personal finance app for everyone (by everyone)
+8. **[homeassistant-ai /ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+9. **[openai /codex-security](https://github.com/openai/codex-security)** — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
+10. **[TheAlgorithms /Java](https://github.com/TheAlgorithms/Java)** — All Algorithms implemented in Java
 <!-- TRENDING-END -->
+
 
 
 
