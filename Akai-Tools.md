@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-17 21:10 IST
+**Updated:** 2026-11-18 20:49 IST
 
 1. **[elementalsouls /Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
-2. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-3. **[alibaba /open-code-review](https://github.com/alibaba/open-code-review)** — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-4. **[Tencent /LoopForge](https://github.com/Tencent/LoopForge)** — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-5. **[dream-num /univer](https://github.com/dream-num/univer)** — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-6. **[getarcaneapp /arcane](https://github.com/getarcaneapp/arcane)** — Modern Docker Management, Designed for Everyone
-7. **[google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)** — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-8. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
-9. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
-10. **[ag-ui-protocol /ag-ui](https://github.com/ag-ui-protocol/ag-ui)** — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+2. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
+3. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+4. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+5. **[getarcaneapp /arcane](https://github.com/getarcaneapp/arcane)** — Modern Docker Management, Designed for Everyone
+6. **[NVIDIA /SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+7. **[nvm-sh /nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+8. **[astral-sh /uv](https://github.com/astral-sh/uv)** — An extremely fast Python package and project manager, written in Rust.
+9. **[google-research /paper-orchestra](https://github.com/google-research/paper-orchestra)** — PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+10. **[google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)** — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 <!-- TRENDING-END -->
+
 
 
 
