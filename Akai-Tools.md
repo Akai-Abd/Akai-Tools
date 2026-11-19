@@ -4,19 +4,20 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-18 20:49 IST
+**Updated:** 2026-11-19 20:56 IST
 
 1. **[elementalsouls /Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
-2. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
+2. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
 3. **[HKUDS /CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
-4. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-5. **[getarcaneapp /arcane](https://github.com/getarcaneapp/arcane)** — Modern Docker Management, Designed for Everyone
-6. **[NVIDIA /SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
-7. **[nvm-sh /nvm](https://github.com/nvm-sh/nvm)** — Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-8. **[astral-sh /uv](https://github.com/astral-sh/uv)** — An extremely fast Python package and project manager, written in Rust.
-9. **[google-research /paper-orchestra](https://github.com/google-research/paper-orchestra)** — PaperOrchestra is a multi-agent framework for automated AI research paper writing.
-10. **[google-labs-code /stitch-skills](https://github.com/google-labs-code/stitch-skills)** — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+4. **[jingyaogong /minimind](https://github.com/jingyaogong/minimind)** — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+5. **[cursor /plugins](https://github.com/cursor/plugins)** — Cursor plugin specification and official plugins
+6. **[firecrawl /firecrawl](https://github.com/firecrawl/firecrawl)** — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+7. **[nginx /nginx](https://github.com/nginx/nginx)** — The official NGINX Open Source repository.
+8. **[openvinotoolkit /openvino](https://github.com/openvinotoolkit/openvino)** — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+9. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+10. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 <!-- TRENDING-END -->
+
 
 
 
