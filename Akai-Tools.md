@@ -4,7 +4,7 @@
 > 🔄 Live trending GitHub repositories (refresh weekly or daily):
 
 <!-- TRENDING-START -->
-**Updated:** 2026-11-22 19:46 IST
+**Updated:** 2026-11-23 23:09 IST
 
 1. **[elementalsouls /Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 2. **[obra /superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works.
@@ -14,9 +14,10 @@
 6. **[firecrawl /firecrawl](https://github.com/firecrawl/firecrawl)** — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 7. **[nginx /nginx](https://github.com/nginx/nginx)** — The official NGINX Open Source repository.
 8. **[openvinotoolkit /openvino](https://github.com/openvinotoolkit/openvino)** — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-9. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+9. **[cathrynlavery /diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 10. **[mvanhorn /last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 <!-- TRENDING-END -->
+
 
 
 
